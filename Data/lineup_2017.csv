@@ -1,0 +1,590 @@
+,Unnamed: 0,Unnamed: 0.1,Rk,Player1,Player2,Player3,Player4,Player5,MP,PTS,New PTS,Tm
+0,0,0,0,Kent Bazemore 2017,Dwight Howard 2017,Paul Millsap 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,424.17,-4.4,-4.4,ATL
+1,1,1,1,Kent Bazemore 2017,Tim Hardaway Jr. 2017,Dwight Howard 2017,Paul Millsap 2017,Dennis Schröder 2017,238.34,2.2,2.2,ATL
+2,2,2,2,Kent Bazemore 2017,Dwight Howard 2017,Kyle Korver 2017,Paul Millsap 2017,Dennis Schröder 2017,205.22,-9.7,-9.7,ATL
+3,3,3,3,Tim Hardaway Jr. 2017,Dwight Howard 2017,Paul Millsap 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,124.3,26.2,18.730080729166666,ATL
+4,4,4,4,Tim Hardaway Jr. 2017,Dwight Howard 2017,Ersan Ilyasova 2017,Taurean Prince 2017,Dennis Schröder 2017,96.38,-5.6,-0.31350885416666685,ATL
+5,5,5,5,Kent Bazemore 2017,Dwight Howard 2017,Kyle Korver 2017,Mike Muscala 2017,Dennis Schröder 2017,76.31,1.5,3.6179705729166662,ATL
+6,6,6,6,Malcolm Delaney 2017,Tim Hardaway Jr. 2017,Paul Millsap 2017,Mike Muscala 2017,Thabo Sefolosha 2017,58.01,24.9,11.022962760416664,ATL
+7,7,7,7,Tim Hardaway Jr. 2017,Dwight Howard 2017,Ersan Ilyasova 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,52.01,18.2,8.58662421875,ATL
+8,8,8,8,Kent Bazemore 2017,Kyle Korver 2017,Paul Millsap 2017,Mike Muscala 2017,Dennis Schröder 2017,47.16,16.2,7.7623156249999985,ATL
+9,9,9,9,Malcolm Delaney 2017,Tim Hardaway Jr. 2017,Paul Millsap 2017,Mike Muscala 2017,Taurean Prince 2017,40.16,27.8,9.780862499999998,ATL
+10,10,10,10,Tim Hardaway Jr. 2017,Ersan Ilyasova 2017,Paul Millsap 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,39.37,24.2,8.948924218749998,ATL
+11,11,11,11,Tim Hardaway Jr. 2017,Dwight Howard 2017,Paul Millsap 2017,Taurean Prince 2017,Dennis Schröder 2017,35.29,-11.1,2.053029427083332,ATL
+12,12,12,12,Kent Bazemore 2017,Kyle Korver 2017,Paul Millsap 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,33.04,10.7,5.993293749999999,ATL
+13,13,13,13,Kyle Korver 2017,Paul Millsap 2017,Mike Muscala 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,31.46,7.9,5.487719270833333,ATL
+14,14,14,14,Dwight Howard 2017,Kyle Korver 2017,Paul Millsap 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,31.32,-4.9,3.397615625,ATL
+15,15,15,15,Tim Hardaway Jr. 2017,Paul Millsap 2017,Mike Muscala 2017,Dennis Schröder 2017,Thabo Sefolosha 2017,30.48,-42.3,-2.49625625,ATL
+16,16,16,16,Malcolm Delaney 2017,Tim Hardaway Jr. 2017,Dwight Howard 2017,Mike Muscala 2017,Thabo Sefolosha 2017,27.56,8.1,5.4578260416666655,ATL
+17,17,17,17,Malcolm Delaney 2017,Mike Dunleavy 2017,Tim Hardaway Jr. 2017,Kris Humphries 2017,Paul Millsap 2017,27.42,3.6,4.812920312499998,ATL
+18,18,18,18,Malcolm Delaney 2017,Tim Hardaway Jr. 2017,Kris Humphries 2017,Kyle Korver 2017,Mike Muscala 2017,27.34,8.8,5.553968229166666,ATL
+19,19,19,19,Malcolm Delaney 2017,Tim Hardaway Jr. 2017,Kris Humphries 2017,Mike Muscala 2017,Taurean Prince 2017,27.26,-2.0,4.019016145833332,ATL
+20,20,20,20,Avery Bradley 2017,Jae Crowder 2017,Al Horford 2017,Amir Johnson 2017,Isaiah Thomas 2017,432.35,6.6,6.6,BOS
+21,21,21,21,Jae Crowder 2017,Al Horford 2017,Amir Johnson 2017,Marcus Smart 2017,Isaiah Thomas 2017,191.19,15.4,15.36504765625,BOS
+22,22,22,22,Avery Bradley 2017,Jae Crowder 2017,Al Horford 2017,Marcus Smart 2017,Isaiah Thomas 2017,134.37,6.0,6.334674218750001,BOS
+23,23,23,23,Jae Crowder 2017,Al Horford 2017,Kelly Olynyk 2017,Marcus Smart 2017,Isaiah Thomas 2017,103.1,-12.5,-3.417846354166666,BOS
+24,24,24,24,Jaylen Brown 2017,Jonas Jerebko 2017,Kelly Olynyk 2017,Terry Rozier 2017,Marcus Smart 2017,98.57,3.4,5.207773177083333,BOS
+25,25,25,25,Jaylen Brown 2017,Jae Crowder 2017,Al Horford 2017,Amir Johnson 2017,Isaiah Thomas 2017,97.21,12.6,9.892066927083333,BOS
+26,26,26,26,Avery Bradley 2017,Jae Crowder 2017,Al Horford 2017,Amir Johnson 2017,Marcus Smart 2017,94.31,7.7,7.40235078125,BOS
+27,27,27,27,Avery Bradley 2017,Amir Johnson 2017,Kelly Olynyk 2017,Marcus Smart 2017,Isaiah Thomas 2017,82.01,-8.2,0.5734210937499995,BOS
+28,28,28,28,Avery Bradley 2017,Jae Crowder 2017,Al Horford 2017,Kelly Olynyk 2017,Isaiah Thomas 2017,81.15,13.2,9.686863281250002,BOS
+29,29,29,29,Jae Crowder 2017,Al Horford 2017,Jonas Jerebko 2017,Marcus Smart 2017,Isaiah Thomas 2017,55.51,21.5,11.27391328125,BOS
+30,30,30,30,Avery Bradley 2017,Jae Crowder 2017,Al Horford 2017,Jonas Jerebko 2017,Isaiah Thomas 2017,52.56,17.3,9.903143750000002,BOS
+31,31,31,31,Jaylen Brown 2017,Jae Crowder 2017,Al Horford 2017,Marcus Smart 2017,Isaiah Thomas 2017,43.5,-0.8,5.3217578125,BOS
+32,32,32,32,Jaylen Brown 2017,Al Horford 2017,Kelly Olynyk 2017,Terry Rozier 2017,Marcus Smart 2017,42.27,-10.3,3.2809789062499988,BOS
+33,33,33,33,Jaylen Brown 2017,Jonas Jerebko 2017,Kelly Olynyk 2017,Marcus Smart 2017,Isaiah Thomas 2017,41.43,7.7,7.24123203125,BOS
+34,34,34,34,Jaylen Brown 2017,Jae Crowder 2017,Jonas Jerebko 2017,Amir Johnson 2017,Isaiah Thomas 2017,39.5,36.3,13.119205729166666,BOS
+35,35,35,35,Jaylen Brown 2017,Al Horford 2017,Jonas Jerebko 2017,Terry Rozier 2017,Marcus Smart 2017,38.23,25.1,10.69607578125,BOS
+36,36,36,36,Avery Bradley 2017,Jae Crowder 2017,Al Horford 2017,Kelly Olynyk 2017,Marcus Smart 2017,37.42,2.6,6.2350453125000005,BOS
+37,37,37,37,Jaylen Brown 2017,Jae Crowder 2017,Al Horford 2017,Jonas Jerebko 2017,Isaiah Thomas 2017,30.03,-9.2,4.563232031250001,BOS
+38,38,38,38,Gerald Green 2017,Jonas Jerebko 2017,Kelly Olynyk 2017,Terry Rozier 2017,Marcus Smart 2017,29.03,-0.1,6.02410703125,BOS
+39,39,39,39,Avery Bradley 2017,Jonas Jerebko 2017,Kelly Olynyk 2017,Terry Rozier 2017,Marcus Smart 2017,27.29,8.0,7.24078984375,BOS
+40,40,40,40,Randy Foye 2017,Rondae Hollis-Jefferson 2017,Caris LeVert 2017,Jeremy Lin 2017,Brook Lopez 2017,244.2,1.5,1.5,BRK
+41,41,41,41,Bojan Bogdanovi? 2017,Trevor Booker 2017,Sean Kilpatrick 2017,Brook Lopez 2017,Isaiah Whitehead 2017,178.08,-7.1,-6.4982500000000005,BRK
+42,42,42,42,Bojan Bogdanovi? 2017,Spencer Dinwiddie 2017,Randy Foye 2017,Rondae Hollis-Jefferson 2017,Brook Lopez 2017,65.22,5.2,2.5587500000000003,BRK
+43,43,43,43,Quincy Acy 2017,Trevor Booker 2017,Spencer Dinwiddie 2017,Sean Kilpatrick 2017,Isaiah Whitehead 2017,63.3,12.4,4.8925,BRK
+44,44,44,44,Trevor Booker 2017,Justin Hamilton 2017,Joe Harris 2017,Sean Kilpatrick 2017,Isaiah Whitehead 2017,62.08,0.1,0.8443333333333337,BRK
+45,45,45,45,Spencer Dinwiddie 2017,Randy Foye 2017,Rondae Hollis-Jefferson 2017,Caris LeVert 2017,Brook Lopez 2017,58.05,9.5,3.709453125000001,BRK
+46,46,46,46,Trevor Booker 2017,Joe Harris 2017,Sean Kilpatrick 2017,Brook Lopez 2017,Isaiah Whitehead 2017,56.03,1.9,1.4042760416666669,BRK
+47,47,47,47,Bojan Bogdanovi? 2017,Trevor Booker 2017,Spencer Dinwiddie 2017,Randy Foye 2017,Brook Lopez 2017,50.22,-18.1,-3.8481562499999993,BRK
+48,48,48,48,Rondae Hollis-Jefferson 2017,Sean Kilpatrick 2017,Caris LeVert 2017,Jeremy Lin 2017,Brook Lopez 2017,50.04,28.6,8.341125,BRK
+49,49,49,49,Bojan Bogdanovi? 2017,Trevor Booker 2017,Spencer Dinwiddie 2017,Joe Harris 2017,Brook Lopez 2017,47.53,-7.4,-0.9289479166666664,BRK
+50,50,50,50,Rondae Hollis-Jefferson 2017,Caris LeVert 2017,Jeremy Lin 2017,Brook Lopez 2017,Isaiah Whitehead 2017,43.36,2.3,1.448416666666667,BRK
+51,51,51,51,Bojan Bogdanovi? 2017,Trevor Booker 2017,Rondae Hollis-Jefferson 2017,Brook Lopez 2017,Isaiah Whitehead 2017,42.08,-1.9,0.5205833333333338,BRK
+52,52,52,52,Quincy Acy 2017,Trevor Booker 2017,Spencer Dinwiddie 2017,K.J. McDaniels 2017,Isaiah Whitehead 2017,42.04,7.4,2.557541666666667,BRK
+53,53,53,53,Bojan Bogdanovi? 2017,Trevor Booker 2017,Rondae Hollis-Jefferson 2017,Sean Kilpatrick 2017,Brook Lopez 2017,41.39,-3.9,0.1005781250000003,BRK
+54,54,54,54,Bojan Bogdanovi? 2017,Trevor Booker 2017,Joe Harris 2017,Brook Lopez 2017,Isaiah Whitehead 2017,37.51,-18.7,-2.6877552083333325,BRK
+55,55,55,55,Bojan Bogdanovi? 2017,Randy Foye 2017,Rondae Hollis-Jefferson 2017,Brook Lopez 2017,Isaiah Whitehead 2017,36.14,19.4,4.625770833333334,BRK
+56,56,56,56,Spencer Dinwiddie 2017,Rondae Hollis-Jefferson 2017,Caris LeVert 2017,Jeremy Lin 2017,Brook Lopez 2017,33.0,-6.4,-0.10624999999999972,BRK
+57,57,57,57,Trevor Booker 2017,Joe Harris 2017,Sean Kilpatrick 2017,Jeremy Lin 2017,Brook Lopez 2017,32.0,7.4,2.233333333333334,BRK
+58,58,58,58,Trevor Booker 2017,Spencer Dinwiddie 2017,Justin Hamilton 2017,Sean Kilpatrick 2017,Isaiah Whitehead 2017,31.09,12.2,2.981197916666667,BRK
+59,59,59,59,Bojan Bogdanovi? 2017,Trevor Booker 2017,Rondae Hollis-Jefferson 2017,Jeremy Lin 2017,Brook Lopez 2017,30.25,-20.4,-2.203125,BRK
+60,60,60,60,Nicolas Batum 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,Marvin Williams 2017,Cody Zeller 2017,781.45,6.7,6.7,CHO
+61,61,61,61,Nicolas Batum 2017,Frank Kaminsky 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,Marvin Williams 2017,218.35,-3.5,-3.5,CHO
+62,62,62,62,Nicolas Batum 2017,Roy Hibbert 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,Marvin Williams 2017,169.37,7.0,6.047778234649122,CHO
+63,63,63,63,Nicolas Batum 2017,Frank Kaminsky 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,Cody Zeller 2017,161.45,7.7,6.303141447368421,CHO
+64,64,64,64,Nicolas Batum 2017,Marco Belinelli 2017,Kemba Walker 2017,Marvin Williams 2017,Cody Zeller 2017,105.49,8.4,4.129043037280701,CHO
+65,65,65,65,Nicolas Batum 2017,Marco Belinelli 2017,Frank Kaminsky 2017,Kemba Walker 2017,Cody Zeller 2017,93.35,11.7,5.1341502192982444,CHO
+66,66,66,66,Nicolas Batum 2017,Marco Belinelli 2017,Roy Hibbert 2017,Frank Kaminsky 2017,Ramon Sessions 2017,87.27,-1.6,-1.3157820723684213,CHO
+67,67,67,67,Nicolas Batum 2017,Marco Belinelli 2017,Frank Kaminsky 2017,Kemba Walker 2017,Marvin Williams 2017,79.41,8.7,2.9655641447368413,CHO
+68,68,68,68,Marco Belinelli 2017,Spencer Hawes 2017,Frank Kaminsky 2017,Michael Kidd-Gilchrist 2017,Ramon Sessions 2017,78.42,-5.7,-2.96635855263158,CHO
+69,69,69,70,Marco Belinelli 2017,Frank Kaminsky 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,Cody Zeller 2017,66.2,12.5,3.6029605263157887,CHO
+70,70,70,71,Nicolas Batum 2017,Spencer Hawes 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,Marvin Williams 2017,63.26,-40.5,-14.067362938596492,CHO
+71,71,71,72,Nicolas Batum 2017,Marco Belinelli 2017,Spencer Hawes 2017,Frank Kaminsky 2017,Ramon Sessions 2017,61.02,3.4,0.34451809210526274,CHO
+72,72,72,73,Michael Kidd-Gilchrist 2017,Jeremy Lamb 2017,Kemba Walker 2017,Marvin Williams 2017,Cody Zeller 2017,54.28,-15.1,-5.042815789473685,CHO
+73,73,73,74,Marco Belinelli 2017,Roy Hibbert 2017,Frank Kaminsky 2017,Michael Kidd-Gilchrist 2017,Ramon Sessions 2017,51.04,9.8,1.8130394736842104,CHO
+74,74,74,75,Marco Belinelli 2017,Frank Kaminsky 2017,Jeremy Lamb 2017,Brian Roberts 2017,Marvin Williams 2017,48.58,29.5,6.658163377192981,CHO
+75,75,75,76,Marco Belinelli 2017,Roy Hibbert 2017,Frank Kaminsky 2017,Jeremy Lamb 2017,Ramon Sessions 2017,47.49,-8.8,-2.9887014802631584,CHO
+76,76,76,77,Nicolas Batum 2017,Jeremy Lamb 2017,Kemba Walker 2017,Marvin Williams 2017,Cody Zeller 2017,42.31,-21.3,-5.534951206140351,CHO
+77,77,77,78,Nicolas Batum 2017,Marco Belinelli 2017,Frank Kaminsky 2017,Michael Kidd-Gilchrist 2017,Kemba Walker 2017,41.51,-8.6,-2.7049832785087724,CHO
+78,78,78,79,Nicolas Batum 2017,Marco Belinelli 2017,Spencer Hawes 2017,Frank Kaminsky 2017,Kemba Walker 2017,36.35,-20.8,-4.812594572368422,CHO
+79,79,79,80,Jimmy Butler 2017,Taj Gibson 2017,Robin Lopez 2017,Rajon Rondo 2017,Dwyane Wade 2017,389.53,2.5,2.5,CHI
+80,80,80,81,Jimmy Butler 2017,Robin Lopez 2017,Nikola Miroti? 2017,Rajon Rondo 2017,Paul Zipser 2017,135.39,21.5,16.988890625,CHI
+81,81,81,82,Jimmy Butler 2017,Taj Gibson 2017,Jerian Grant 2017,Robin Lopez 2017,Dwyane Wade 2017,132.14,19.5,15.353447916666665,CHI
+82,82,82,83,Jimmy Butler 2017,Robin Lopez 2017,Nikola Miroti? 2017,Rajon Rondo 2017,Denzel Valentine 2017,97.4,0.1,3.1055208333333337,CHI
+83,83,83,84,Jimmy Butler 2017,Michael Carter-Williams 2017,Taj Gibson 2017,Robin Lopez 2017,Dwyane Wade 2017,96.01,-7.0,-0.4006875000000005,CHI
+84,84,84,85,Jimmy Butler 2017,Taj Gibson 2017,Robin Lopez 2017,Doug McDermott 2017,Rajon Rondo 2017,92.2,-14.1,-3.5482291666666663,CHI
+85,85,85,86,Jimmy Butler 2017,Jerian Grant 2017,Robin Lopez 2017,Bobby Portis 2017,Dwyane Wade 2017,81.11,-5.2,1.3840937500000012,CHI
+86,86,86,87,Cristiano Felício 2017,Jerian Grant 2017,Doug McDermott 2017,Nikola Miroti? 2017,Dwyane Wade 2017,65.46,-3.3,2.9610937500000016,CHI
+87,87,87,88,Jimmy Butler 2017,Robin Lopez 2017,Bobby Portis 2017,Rajon Rondo 2017,Dwyane Wade 2017,53.57,-9.8,1.7358333333333338,CHI
+88,88,88,89,Jimmy Butler 2017,Michael Carter-Williams 2017,Taj Gibson 2017,Robin Lopez 2017,Doug McDermott 2017,47.13,-0.5,4.555359375,CHI
+89,89,89,90,Jimmy Butler 2017,Robin Lopez 2017,Doug McDermott 2017,Nikola Miroti? 2017,Rajon Rondo 2017,46.59,24.3,10.592078125,CHI
+90,90,90,91,Jimmy Butler 2017,Jerian Grant 2017,Robin Lopez 2017,Bobby Portis 2017,Paul Zipser 2017,41.33,12.3,7.513088541666669,CHI
+91,91,91,92,Isaiah Canaan 2017,Cristiano Felício 2017,Doug McDermott 2017,Nikola Miroti? 2017,Dwyane Wade 2017,38.48,13.9,7.743208333333333,CHI
+92,92,92,93,Jimmy Butler 2017,Jerian Grant 2017,Robin Lopez 2017,Nikola Miroti? 2017,Paul Zipser 2017,36.2,32.2,11.102083333333335,CHI
+93,93,93,94,Jimmy Butler 2017,Jerian Grant 2017,Robin Lopez 2017,Nikola Miroti? 2017,Dwyane Wade 2017,35.4,15.8,7.9700000000000015,CHI
+94,94,94,95,Cristiano Felício 2017,Doug McDermott 2017,Nikola Miroti? 2017,Rajon Rondo 2017,Paul Zipser 2017,34.57,-5.8,4.0393750000000015,CHI
+95,95,95,96,Jimmy Butler 2017,Taj Gibson 2017,Nikola Miroti? 2017,Rajon Rondo 2017,Dwyane Wade 2017,34.31,-7.8,3.698229166666668,CHI
+96,96,96,97,Jimmy Butler 2017,Robin Lopez 2017,Nikola Miroti? 2017,Rajon Rondo 2017,Dwyane Wade 2017,34.13,5.5,6.075567708333335,CHI
+97,97,97,98,Jimmy Butler 2017,Cristiano Felício 2017,Doug McDermott 2017,Nikola Miroti? 2017,Dwyane Wade 2017,32.31,29.5,10.120953125,CHI
+98,98,98,99,Michael Carter-Williams 2017,Joffrey Lauvergne 2017,Bobby Portis 2017,Denzel Valentine 2017,Paul Zipser 2017,31.5,0.4,5.2484375000000005,CHI
+99,99,99,100,Kyrie Irving 2017,LeBron James 2017,Kevin Love 2017,J.R. Smith 2017,Tristan Thompson 2017,453.15,6.4,6.4,CLE
+100,100,100,101,Kyrie Irving 2017,LeBron James 2017,Kevin Love 2017,Iman Shumpert 2017,Tristan Thompson 2017,225.48,4.3,4.3,CLE
+101,101,101,102,Kyrie Irving 2017,LeBron James 2017,DeAndre Liggins 2017,Kevin Love 2017,Tristan Thompson 2017,180.39,32.2,30.4784546875,CLE
+102,102,102,103,Kyrie Irving 2017,LeBron James 2017,Richard Jefferson 2017,Iman Shumpert 2017,Tristan Thompson 2017,131.07,15.3,11.6283328125,CLE
+103,103,103,104,Channing Frye 2017,Kyrie Irving 2017,LeBron James 2017,Iman Shumpert 2017,Tristan Thompson 2017,104.25,12.6,8.5461328125,CLE
+104,104,104,105,Channing Frye 2017,Kyrie Irving 2017,LeBron James 2017,Kevin Love 2017,J.R. Smith 2017,71.09,32.2,14.271314062500005,CLE
+105,105,105,106,Channing Frye 2017,Kyrie Irving 2017,LeBron James 2017,Richard Jefferson 2017,Iman Shumpert 2017,64.04,21.4,9.62368125,CLE
+106,106,106,107,Kyrie Irving 2017,Richard Jefferson 2017,Kevin Love 2017,Iman Shumpert 2017,Tristan Thompson 2017,46.08,5.0,4.0348000000000015,CLE
+107,107,107,108,Kyrie Irving 2017,LeBron James 2017,Kyle Korver 2017,Kevin Love 2017,Tristan Thompson 2017,44.21,-8.0,1.0290453125000003,CLE
+108,108,108,109,Kyrie Irving 2017,LeBron James 2017,Kevin Love 2017,Iman Shumpert 2017,J.R. Smith 2017,42.12,1.1,3.15304375,CLE
+109,109,109,110,Kay Felder 2017,Channing Frye 2017,LeBron James 2017,Richard Jefferson 2017,Kyle Korver 2017,39.44,-11.8,0.5398791666666667,CLE
+110,110,110,111,Kyrie Irving 2017,LeBron James 2017,Iman Shumpert 2017,J.R. Smith 2017,Tristan Thompson 2017,39.42,-10.7,0.7673406250000006,CLE
+111,111,111,112,Kyrie Irving 2017,Kevin Love 2017,Iman Shumpert 2017,J.R. Smith 2017,Tristan Thompson 2017,39.17,3.6,3.7034786458333335,CLE
+112,112,112,113,Channing Frye 2017,LeBron James 2017,Richard Jefferson 2017,Kyle Korver 2017,Derrick Williams 2017,38.37,37.5,10.4787234375,CLE
+113,113,113,114,Kyrie Irving 2017,LeBron James 2017,Richard Jefferson 2017,J.R. Smith 2017,Tristan Thompson 2017,37.4,20.3,6.957697916666668,CLE
+114,114,114,115,LeBron James 2017,DeAndre Liggins 2017,Kevin Love 2017,Jordan McRae 2017,Tristan Thompson 2017,37.1,0.0,3.0092552083333337,CLE
+115,115,115,116,Channing Frye 2017,Kyrie Irving 2017,LeBron James 2017,Kevin Love 2017,Iman Shumpert 2017,36.25,-29.3,-2.5061328125,CLE
+116,116,116,117,Channing Frye 2017,Kyrie Irving 2017,Richard Jefferson 2017,Iman Shumpert 2017,Tristan Thompson 2017,35.25,-11.3,0.9705859375,CLE
+117,117,117,118,Channing Frye 2017,LeBron James 2017,Richard Jefferson 2017,Kyle Korver 2017,DeAndre Liggins 2017,33.53,-42.4,-4.325931770833334,CLE
+118,118,118,119,Kyrie Irving 2017,LeBron James 2017,Richard Jefferson 2017,Kevin Love 2017,Tristan Thompson 2017,32.46,-3.8,2.4569593750000003,CLE
+119,119,119,120,Harrison Barnes 2017,Seth Curry 2017,Yogi Ferrell 2017,Wesley Matthews 2017,Dirk Nowitzki 2017,256.47,2.5,2.5,DAL
+120,120,120,121,Harrison Barnes 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,Salah Mejri 2017,Deron Williams 2017,135.31,-2.8,-2.683372135416666,DAL
+121,121,121,122,Harrison Barnes 2017,Seth Curry 2017,Wesley Matthews 2017,Dirk Nowitzki 2017,Deron Williams 2017,123.1,-0.9,-1.4400755208333331,DAL
+122,122,122,123,Harrison Barnes 2017,Seth Curry 2017,Wesley Matthews 2017,Salah Mejri 2017,Deron Williams 2017,96.36,13.4,5.527134374999998,DAL
+123,123,123,124,Harrison Barnes 2017,Andrew Bogut 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,Deron Williams 2017,68.37,15.9,4.113296093750002,DAL
+124,124,124,125,J.J. Barea 2017,Dorian Finney-Smith 2017,Devin Harris 2017,Dirk Nowitzki 2017,Dwight Powell 2017,64.42,21.1,5.4814171875,DAL
+125,125,125,126,Harrison Barnes 2017,Seth Curry 2017,Devin Harris 2017,Wesley Matthews 2017,Salah Mejri 2017,57.0,-0.3,-1.780078125,DAL
+126,126,126,127,Harrison Barnes 2017,Andrew Bogut 2017,Seth Curry 2017,Wesley Matthews 2017,Deron Williams 2017,55.01,0.0,-1.7159424479166665,DAL
+127,127,127,128,Harrison Barnes 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,Dwight Powell 2017,Deron Williams 2017,53.43,12.3,1.68712578125,DAL
+128,128,128,129,Harrison Barnes 2017,Seth Curry 2017,Wesley Matthews 2017,Nerlens Noel 2017,Dirk Nowitzki 2017,51.04,4.9,-0.4630874999999997,DAL
+129,129,129,130,J.J. Barea 2017,Harrison Barnes 2017,Andrew Bogut 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,50.36,17.7,2.8683739583333328,DAL
+130,130,130,131,Harrison Barnes 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,Dirk Nowitzki 2017,Deron Williams 2017,48.01,-48.7,-13.981161197916665,DAL
+131,131,131,132,Yogi Ferrell 2017,Dorian Finney-Smith 2017,Devin Harris 2017,Salah Mejri 2017,Dirk Nowitzki 2017,43.41,-1.1,-2.10994765625,DAL
+132,132,132,133,Seth Curry 2017,Dorian Finney-Smith 2017,Devin Harris 2017,Wesley Matthews 2017,Dwight Powell 2017,42.56,-27.0,-7.856891666666668,DAL
+133,133,133,134,Harrison Barnes 2017,Andrew Bogut 2017,Wesley Matthews 2017,Dirk Nowitzki 2017,Deron Williams 2017,42.53,-43.6,-11.530121614583335,DAL
+134,134,134,135,Harrison Barnes 2017,Seth Curry 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,Salah Mejri 2017,40.3,3.9,-1.0816067708333337,DAL
+135,135,135,136,Justin Anderson 2017,Harrison Barnes 2017,Seth Curry 2017,Wesley Matthews 2017,Dwight Powell 2017,40.28,-19.9,-6.075305208333332,DAL
+136,136,136,137,Harrison Barnes 2017,Seth Curry 2017,Wesley Matthews 2017,Dwight Powell 2017,Deron Williams 2017,37.26,6.9,-0.5992484374999996,DAL
+137,137,137,138,J.J. Barea 2017,Harrison Barnes 2017,Devin Harris 2017,Wesley Matthews 2017,Nerlens Noel 2017,35.0,3.2,-1.3832552083333334,DAL
+138,138,138,139,Harrison Barnes 2017,Andrew Bogut 2017,Seth Curry 2017,Dorian Finney-Smith 2017,Wesley Matthews 2017,34.01,-5.6,-2.97094765625,DAL
+139,139,139,140,Wilson Chandler 2017,Danilo Gallinari 2017,Gary Harris 2017,Nikola Joki? 2017,Emmanuel Mudiay 2017,206.57,4.4,4.4,DEN
+140,140,140,141,Wilson Chandler 2017,Danilo Gallinari 2017,Gary Harris 2017,Nikola Joki? 2017,Jameer Nelson 2017,196.58,2.3,2.3,DEN
+141,141,141,142,Kenneth Faried 2017,Danilo Gallinari 2017,Gary Harris 2017,Nikola Joki? 2017,Jameer Nelson 2017,87.57,14.4,6.649335937499999,DEN
+142,142,142,143,Will Barton 2017,Wilson Chandler 2017,Gary Harris 2017,Nikola Joki? 2017,Jameer Nelson 2017,78.46,8.4,3.521328125,DEN
+143,143,143,144,Will Barton 2017,Wilson Chandler 2017,Danilo Gallinari 2017,Emmanuel Mudiay 2017,Jusuf Nurki? 2017,70.31,-14.0,-5.031700520833334,DEN
+144,144,144,145,Wilson Chandler 2017,Danilo Gallinari 2017,Gary Harris 2017,Nikola Joki? 2017,Jamal Murray 2017,68.49,18.1,6.5531015625,DEN
+145,145,145,146,Will Barton 2017,Kenneth Faried 2017,Danilo Gallinari 2017,Emmanuel Mudiay 2017,Jusuf Nurki? 2017,63.02,-36.6,-11.912421875,DEN
+146,146,146,147,Kenneth Faried 2017,Danilo Gallinari 2017,Emmanuel Mudiay 2017,Jameer Nelson 2017,Jusuf Nurki? 2017,52.28,-24.2,-6.480302083333332,DEN
+147,147,147,148,Will Barton 2017,Wilson Chandler 2017,Jamal Murray 2017,Jameer Nelson 2017,Jusuf Nurki? 2017,52.17,3.7,1.1146015625000003,DEN
+148,148,148,149,Will Barton 2017,Wilson Chandler 2017,Danilo Gallinari 2017,Nikola Joki? 2017,Jameer Nelson 2017,51.12,1.0,0.37631250000000016,DEN
+149,149,149,150,Wilson Chandler 2017,Danilo Gallinari 2017,Nikola Joki? 2017,Jamal Murray 2017,Jameer Nelson 2017,49.44,23.1,6.0596250000000005,DEN
+150,150,150,151,Wilson Chandler 2017,Kenneth Faried 2017,Gary Harris 2017,Nikola Joki? 2017,Jameer Nelson 2017,49.29,-1.2,-0.19657031249999984,DEN
+151,151,151,152,Wilson Chandler 2017,Juan Hernangómez 2017,Nikola Joki? 2017,Jamal Murray 2017,Jameer Nelson 2017,45.55,-4.7,-1.0006119791666666,DEN
+152,152,152,153,Will Barton 2017,Kenneth Faried 2017,Danilo Gallinari 2017,Nikola Joki? 2017,Emmanuel Mudiay 2017,44.08,17.6,4.156229166666667,DEN
+153,153,153,154,Will Barton 2017,Danilo Gallinari 2017,Nikola Joki? 2017,Emmanuel Mudiay 2017,Jusuf Nurki? 2017,43.3,-7.1,-1.485026041666666,DEN
+154,154,154,155,Will Barton 2017,Gary Harris 2017,Juan Hernangómez 2017,Nikola Joki? 2017,Jameer Nelson 2017,42.52,37.0,8.310739583333334,DEN
+155,155,155,156,Kenneth Faried 2017,Danilo Gallinari 2017,Gary Harris 2017,Nikola Joki? 2017,Jamal Murray 2017,41.58,3.4,0.853828125,DEN
+156,156,156,157,Will Barton 2017,Wilson Chandler 2017,Kenneth Faried 2017,Jamal Murray 2017,Jameer Nelson 2017,41.39,-9.9,-2.0165078125,DEN
+157,157,157,158,Gary Harris 2017,Juan Hernangómez 2017,Nikola Joki? 2017,Jameer Nelson 2017,Mason Plumlee 2017,40.31,-10.9,-2.1699244791666668,DEN
+158,158,158,159,Will Barton 2017,Wilson Chandler 2017,Kenneth Faried 2017,Danilo Gallinari 2017,Emmanuel Mudiay 2017,37.08,-21.8,-4.089093749999999,DEN
+159,159,159,160,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Tobias Harris 2017,Marcus Morris 2017,Ish Smith 2017,491.33,-7.3,-7.3,DET
+160,160,160,161,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Reggie Jackson 2017,Jon Leuer 2017,Marcus Morris 2017,403.56,-9.8,-9.8,DET
+161,161,161,162,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Tobias Harris 2017,Reggie Jackson 2017,Marcus Morris 2017,383.55,-13.0,-13.0,DET
+162,162,162,163,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Jon Leuer 2017,Marcus Morris 2017,Ish Smith 2017,189.29,-5.2,-5.077979427083333,DET
+163,163,163,164,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Tobias Harris 2017,Jon Leuer 2017,Ish Smith 2017,109.56,-3.5,-0.5179906250000001,DET
+164,164,164,165,Aron Baynes 2017,Kentavious Caldwell-Pope 2017,Tobias Harris 2017,Marcus Morris 2017,Ish Smith 2017,100.12,12.4,8.114659375,DET
+165,165,165,166,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Tobias Harris 2017,Reggie Jackson 2017,Jon Leuer 2017,81.56,9.0,5.804717708333333,DET
+166,166,166,167,Kentavious Caldwell-Pope 2017,Andre Drummond 2017,Tobias Harris 2017,Stanley Johnson 2017,Ish Smith 2017,80.18,1.9,2.7998015625,DET
+167,167,167,168,Aron Baynes 2017,Tobias Harris 2017,Stanley Johnson 2017,Marcus Morris 2017,Ish Smith 2017,64.57,10.0,5.64946015625,DET
+168,168,168,169,Aron Baynes 2017,Kentavious Caldwell-Pope 2017,Jon Leuer 2017,Marcus Morris 2017,Ish Smith 2017,58.26,19.5,8.3166890625,DET
+169,169,169,170,Aron Baynes 2017,Kentavious Caldwell-Pope 2017,Tobias Harris 2017,Jon Leuer 2017,Ish Smith 2017,58.08,16.5,7.3941375,DET
+170,170,170,171,Aron Baynes 2017,Tobias Harris 2017,Stanley Johnson 2017,Jon Leuer 2017,Ish Smith 2017,53.56,5.7,4.074051041666666,DET
+171,171,171,172,Aron Baynes 2017,Tobias Harris 2017,Stanley Johnson 2017,Jon Leuer 2017,Beno Udrih 2017,53.49,6.6,4.32396328125,DET
+172,172,172,173,Aron Baynes 2017,Stanley Johnson 2017,Jon Leuer 2017,Marcus Morris 2017,Beno Udrih 2017,52.49,-19.4,-2.8004898437499994,DET
+173,173,173,174,Aron Baynes 2017,Kentavious Caldwell-Pope 2017,Tobias Harris 2017,Stanley Johnson 2017,Ish Smith 2017,52.33,23.8,8.99279765625,DET
+174,174,174,175,Andre Drummond 2017,Tobias Harris 2017,Reggie Jackson 2017,Stanley Johnson 2017,Marcus Morris 2017,51.59,-9.1,0.0741846354166662,DET
+175,175,175,176,Andre Drummond 2017,Tobias Harris 2017,Stanley Johnson 2017,Marcus Morris 2017,Ish Smith 2017,44.19,28.0,9.09648671875,DET
+176,176,176,177,Aron Baynes 2017,Tobias Harris 2017,Reggie Jackson 2017,Stanley Johnson 2017,Jon Leuer 2017,42.19,0.0,2.687997135416667,DET
+177,177,177,178,Reggie Bullock 2017,Andre Drummond 2017,Tobias Harris 2017,Reggie Jackson 2017,Marcus Morris 2017,40.12,-19.8,-1.4122364583333336,DET
+178,178,178,179,Kentavious Caldwell-Pope 2017,Tobias Harris 2017,Jon Leuer 2017,Marcus Morris 2017,Ish Smith 2017,36.32,22.6,7.068487500000002,DET
+179,179,179,180,Stephen Curry 2017,Kevin Durant 2017,Draymond Green 2017,Zaza Pachulia 2017,Klay Thompson 2017,531.18,23.7,23.7,GSW
+180,180,180,181,Stephen Curry 2017,Kevin Durant 2017,Draymond Green 2017,Andre Iguodala 2017,Klay Thompson 2017,223.32,23.4,23.4,GSW
+181,181,181,182,Stephen Curry 2017,Draymond Green 2017,Patrick McCaw 2017,Zaza Pachulia 2017,Klay Thompson 2017,175.11,11.9,12.14411328125,GSW
+182,182,182,183,Kevin Durant 2017,Andre Iguodala 2017,Shaun Livingston 2017,Klay Thompson 2017,David West 2017,166.18,14.1,14.177325520833335,GSW
+183,183,183,184,Stephen Curry 2017,Kevin Durant 2017,Draymond Green 2017,JaVale McGee 2017,Klay Thompson 2017,126.13,34.3,27.56719401041667,GSW
+184,184,184,185,Draymond Green 2017,Andre Iguodala 2017,Shaun Livingston 2017,Klay Thompson 2017,David West 2017,102.01,8.2,11.234819010416668,GSW
+185,185,185,186,Matt Barnes 2017,Ian Clark 2017,Andre Iguodala 2017,Klay Thompson 2017,David West 2017,84.31,4.0,9.987451822916666,GSW
+186,186,186,187,Stephen Curry 2017,Draymond Green 2017,Andre Iguodala 2017,JaVale McGee 2017,Klay Thompson 2017,77.25,12.9,13.96083984375,GSW
+187,187,187,188,Draymond Green 2017,Andre Iguodala 2017,Shaun Livingston 2017,James Michael McAdoo 2017,Klay Thompson 2017,57.1,1.8,10.846028645833336,GSW
+188,188,188,189,Stephen Curry 2017,Draymond Green 2017,Andre Iguodala 2017,Zaza Pachulia 2017,Klay Thompson 2017,53.24,34.3,20.116848958333332,GSW
+189,189,189,190,Ian Clark 2017,Kevin Durant 2017,Andre Iguodala 2017,Shaun Livingston 2017,David West 2017,51.35,-21.1,5.107050781250002,GSW
+190,190,190,191,Ian Clark 2017,Stephen Curry 2017,Draymond Green 2017,Andre Iguodala 2017,JaVale McGee 2017,48.38,22.6,16.671934895833335,GSW
+191,191,191,192,Matt Barnes 2017,Stephen Curry 2017,Draymond Green 2017,Zaza Pachulia 2017,Klay Thompson 2017,45.04,-1.2,10.950989583333335,GSW
+192,192,192,193,Ian Clark 2017,Stephen Curry 2017,Kevin Durant 2017,Draymond Green 2017,Andre Iguodala 2017,42.34,13.9,14.504096354166668,GSW
+193,193,193,194,Stephen Curry 2017,Draymond Green 2017,Andre Iguodala 2017,Shaun Livingston 2017,JaVale McGee 2017,41.43,40.3,20.204394531250006,GSW
+194,194,194,195,Matt Barnes 2017,Stephen Curry 2017,Draymond Green 2017,Andre Iguodala 2017,Klay Thompson 2017,39.38,25.8,16.95678385416667,GSW
+195,195,195,196,Ian Clark 2017,Shaun Livingston 2017,Kevon Looney 2017,James Michael McAdoo 2017,Patrick McCaw 2017,35.29,4.6,12.823194010416668,GSW
+196,196,196,197,Kevin Durant 2017,Draymond Green 2017,Shaun Livingston 2017,Zaza Pachulia 2017,Klay Thompson 2017,33.32,20.4,15.668526041666668,GSW
+197,197,197,198,Stephen Curry 2017,Kevin Durant 2017,Draymond Green 2017,Patrick McCaw 2017,Zaza Pachulia 2017,30.57,-18.6,9.376996093750003,GSW
+198,198,198,199,Ian Clark 2017,Stephen Curry 2017,Kevin Durant 2017,Andre Iguodala 2017,JaVale McGee 2017,29.17,38.2,18.249084635416672,GSW
+199,199,199,200,Ryan Anderson 2017,Trevor Ariza 2017,Patrick Beverley 2017,Clint Capela 2017,James Harden 2017,504.25,16.9,16.9,HOU
+200,200,200,201,Ryan Anderson 2017,Trevor Ariza 2017,Clint Capela 2017,Eric Gordon 2017,James Harden 2017,272.06,8.3,8.3,HOU
+201,201,201,202,Ryan Anderson 2017,Trevor Ariza 2017,Patrick Beverley 2017,James Harden 2017,Montrezl Harrell 2017,195.06,0.4,0.4,HOU
+202,202,202,203,Ryan Anderson 2017,Trevor Ariza 2017,Eric Gordon 2017,James Harden 2017,Nene 2017,192.59,11.0,11.0,HOU
+203,203,203,204,Ryan Anderson 2017,Trevor Ariza 2017,Eric Gordon 2017,James Harden 2017,Montrezl Harrell 2017,174.08,20.0,18.589733333333328,HOU
+204,204,204,205,Ryan Anderson 2017,Trevor Ariza 2017,Patrick Beverley 2017,James Harden 2017,Nene 2017,155.46,3.7,3.926471875,HOU
+205,205,205,206,Patrick Beverley 2017,Corey Brewer 2017,Sam Dekker 2017,Eric Gordon 2017,Nene 2017,137.52,19.7,15.4976625,HOU
+206,206,206,207,Trevor Ariza 2017,Sam Dekker 2017,Eric Gordon 2017,James Harden 2017,Nene 2017,135.56,2.8,3.4143729166666668,HOU
+207,207,207,208,Trevor Ariza 2017,Patrick Beverley 2017,Clint Capela 2017,Eric Gordon 2017,James Harden 2017,103.47,13.5,9.5299828125,HOU
+208,208,208,209,Patrick Beverley 2017,Corey Brewer 2017,Sam Dekker 2017,Eric Gordon 2017,Montrezl Harrell 2017,91.02,8.0,6.364334375,HOU
+209,209,209,210,Patrick Beverley 2017,Clint Capela 2017,Sam Dekker 2017,Eric Gordon 2017,Lou Williams 2017,88.07,18.8,11.270488020833335,HOU
+210,210,210,211,Patrick Beverley 2017,Corey Brewer 2017,Clint Capela 2017,Sam Dekker 2017,Eric Gordon 2017,85.12,-7.4,-0.5585666666666667,HOU
+211,211,211,212,Trevor Ariza 2017,Sam Dekker 2017,Eric Gordon 2017,James Harden 2017,Montrezl Harrell 2017,69.46,2.9,4.1700760416666665,HOU
+212,212,212,213,Trevor Ariza 2017,Eric Gordon 2017,James Harden 2017,Nene 2017,Lou Williams 2017,66.34,18.4,9.557986458333334,HOU
+213,213,213,214,Trevor Ariza 2017,Patrick Beverley 2017,Eric Gordon 2017,James Harden 2017,Nene 2017,55.17,-12.6,-0.1356421874999998,HOU
+214,214,214,215,Ryan Anderson 2017,Trevor Ariza 2017,Corey Brewer 2017,Clint Capela 2017,James Harden 2017,47.49,5.1,4.9419421875000005,HOU
+215,215,215,216,Patrick Beverley 2017,Sam Dekker 2017,Eric Gordon 2017,Nene 2017,Lou Williams 2017,45.45,-1.2,3.4483828125,HOU
+216,216,216,217,Ryan Anderson 2017,Trevor Ariza 2017,Patrick Beverley 2017,Eric Gordon 2017,James Harden 2017,36.25,16.0,6.987591145833334,HOU
+217,217,217,218,Ryan Anderson 2017,Trevor Ariza 2017,Corey Brewer 2017,James Harden 2017,Montrezl Harrell 2017,33.5,-5.5,3.0771614583333338,HOU
+218,218,218,219,Trevor Ariza 2017,Clint Capela 2017,Sam Dekker 2017,Eric Gordon 2017,James Harden 2017,33.3,-41.0,-3.069046874999999,HOU
+219,219,219,220,Monta Ellis 2017,Paul George 2017,Jeff Teague 2017,Myles Turner 2017,Thaddeus Young 2017,600.19,-1.7,-1.7,IND
+220,220,220,221,Paul George 2017,C.J. Miles 2017,Jeff Teague 2017,Myles Turner 2017,Thaddeus Young 2017,443.05,7.1,7.1,IND
+221,221,221,222,Paul George 2017,Glenn Robinson III 2017,Jeff Teague 2017,Myles Turner 2017,Thaddeus Young 2017,375.23,7.3,7.3,IND
+222,222,222,223,Monta Ellis 2017,Glenn Robinson III 2017,Jeff Teague 2017,Myles Turner 2017,Thaddeus Young 2017,105.24,12.3,6.5250375,IND
+223,223,223,224,Lavoy Allen 2017,Paul George 2017,C.J. Miles 2017,Jeff Teague 2017,Myles Turner 2017,102.54,-1.1,-0.8111187500000002,IND
+224,224,224,225,Monta Ellis 2017,Paul George 2017,C.J. Miles 2017,Jeff Teague 2017,Myles Turner 2017,100.27,5.2,2.486320833333333,IND
+225,225,225,226,Lavoy Allen 2017,Monta Ellis 2017,Paul George 2017,Jeff Teague 2017,Myles Turner 2017,80.28,27.2,11.093700000000002,IND
+226,226,226,227,Paul George 2017,Glenn Robinson III 2017,Kevin Séraphin 2017,Jeff Teague 2017,Myles Turner 2017,61.5,-5.1,-1.95984375,IND
+227,227,227,228,Lavoy Allen 2017,Aaron Brooks 2017,Monta Ellis 2017,Al Jefferson 2017,Glenn Robinson III 2017,50.19,-15.7,-4.458603125,IND
+228,228,228,229,Paul George 2017,Al Jefferson 2017,C.J. Miles 2017,Jeff Teague 2017,Thaddeus Young 2017,47.01,-6.5,-1.953959375,IND
+229,229,229,230,Aaron Brooks 2017,Monta Ellis 2017,Al Jefferson 2017,C.J. Miles 2017,Kevin Séraphin 2017,45.16,-30.9,-7.635037499999998,IND
+230,230,230,231,Monta Ellis 2017,C.J. Miles 2017,Jeff Teague 2017,Myles Turner 2017,Thaddeus Young 2017,44.2,-11.5,-3.0168958333333338,IND
+231,231,231,232,Lavoy Allen 2017,Rakeem Christmas 2017,Monta Ellis 2017,Glenn Robinson III 2017,Rodney Stuckey 2017,41.52,-9.1,-2.344075000000001,IND
+232,232,232,233,Aaron Brooks 2017,Al Jefferson 2017,C.J. Miles 2017,Glenn Robinson III 2017,Rodney Stuckey 2017,41.44,9.1,1.5876833333333331,IND
+233,233,233,234,Monta Ellis 2017,Al Jefferson 2017,C.J. Miles 2017,Glenn Robinson III 2017,Rodney Stuckey 2017,41.42,21.5,4.261727083333333,IND
+234,234,234,235,Aaron Brooks 2017,Monta Ellis 2017,Al Jefferson 2017,C.J. Miles 2017,Thaddeus Young 2017,39.5,13.8,2.4578125,IND
+235,235,235,236,Lavoy Allen 2017,Aaron Brooks 2017,Al Jefferson 2017,Glenn Robinson III 2017,Rodney Stuckey 2017,38.56,-9.4,-2.271433333333334,IND
+236,236,236,237,Monta Ellis 2017,Paul George 2017,Kevin Séraphin 2017,Jeff Teague 2017,Myles Turner 2017,38.35,-46.2,-9.61209375,IND
+237,237,237,238,Lavoy Allen 2017,Aaron Brooks 2017,Monta Ellis 2017,Al Jefferson 2017,C.J. Miles 2017,38.21,21.4,3.8743479166666654,IND
+238,238,238,239,Lavoy Allen 2017,Aaron Brooks 2017,Al Jefferson 2017,C.J. Miles 2017,Glenn Robinson III 2017,32.21,2.7,0.053478124999999765,IND
+239,239,239,240,Blake Griffin 2017,DeAndre Jordan 2017,Luc Mbah a Moute 2017,Chris Paul 2017,J.J. Redick 2017,869.24,14.9,14.9,LAC
+240,240,240,241,Jamal Crawford 2017,Raymond Felton 2017,Wesley Johnson 2017,Austin Rivers 2017,Marreese Speights 2017,250.48,-0.2,-0.2,LAC
+241,241,241,242,Jamal Crawford 2017,Blake Griffin 2017,DeAndre Jordan 2017,Chris Paul 2017,J.J. Redick 2017,161.57,12.0,11.016572135416665,LAC
+242,242,242,243,Brandon Bass 2017,Jamal Crawford 2017,Raymond Felton 2017,Austin Rivers 2017,Marreese Speights 2017,131.12,-12.7,-6.8355437499999985,LAC
+243,243,243,244,Blake Griffin 2017,DeAndre Jordan 2017,Chris Paul 2017,J.J. Redick 2017,Austin Rivers 2017,129.51,15.9,12.61113828125,LAC
+244,244,244,245,Blake Griffin 2017,DeAndre Jordan 2017,Luc Mbah a Moute 2017,J.J. Redick 2017,Austin Rivers 2017,129.44,0.6,2.2927041666666668,LAC
+245,245,245,246,Jamal Crawford 2017,Raymond Felton 2017,Paul Pierce 2017,Austin Rivers 2017,Marreese Speights 2017,101.01,4.6,5.1663179687500005,LAC
+246,246,246,247,Jamal Crawford 2017,Raymond Felton 2017,Blake Griffin 2017,Austin Rivers 2017,Marreese Speights 2017,100.33,-2.4,1.5126856770833337,LAC
+247,247,247,248,Raymond Felton 2017,DeAndre Jordan 2017,Luc Mbah a Moute 2017,J.J. Redick 2017,Austin Rivers 2017,95.39,1.2,3.512098697916667,LAC
+248,248,248,249,Jamal Crawford 2017,Blake Griffin 2017,DeAndre Jordan 2017,Chris Paul 2017,Austin Rivers 2017,92.33,3.5,4.69136796875,LAC
+249,249,249,250,DeAndre Jordan 2017,Luc Mbah a Moute 2017,Chris Paul 2017,J.J. Redick 2017,Austin Rivers 2017,81.38,16.0,10.120431770833333,LAC
+250,250,250,251,Jamal Crawford 2017,Blake Griffin 2017,DeAndre Jordan 2017,Luc Mbah a Moute 2017,Chris Paul 2017,62.33,39.1,16.606982552083334,LAC
+251,251,251,252,Jamal Crawford 2017,Blake Griffin 2017,DeAndre Jordan 2017,J.J. Redick 2017,Austin Rivers 2017,55.06,9.9,6.9721942708333335,LAC
+252,252,252,253,Alan Anderson 2017,Jamal Crawford 2017,Raymond Felton 2017,Wesley Johnson 2017,Marreese Speights 2017,53.27,8.2,6.462262239583334,LAC
+253,253,253,254,Jamal Crawford 2017,Blake Griffin 2017,Chris Paul 2017,Austin Rivers 2017,Marreese Speights 2017,50.21,-6.1,2.684333593750001,LAC
+254,254,254,255,Raymond Felton 2017,Blake Griffin 2017,DeAndre Jordan 2017,J.J. Redick 2017,Austin Rivers 2017,43.49,4.0,5.388413802083334,LAC
+255,255,255,256,DeAndre Jordan 2017,Luc Mbah a Moute 2017,Chris Paul 2017,Paul Pierce 2017,J.J. Redick 2017,43.47,24.3,9.98464765625,LAC
+256,256,256,257,Jamal Crawford 2017,Raymond Felton 2017,Blake Griffin 2017,DeAndre Jordan 2017,Austin Rivers 2017,43.34,3.6,5.299524479166667,LAC
+257,257,257,258,Brandon Bass 2017,Jamal Crawford 2017,Wesley Johnson 2017,Austin Rivers 2017,Marreese Speights 2017,43.25,25.2,10.166178385416668,LAC
+258,258,258,259,Alan Anderson 2017,Brandon Bass 2017,Jamal Crawford 2017,Raymond Felton 2017,Marreese Speights 2017,37.21,-45.7,-4.18483828125,LAC
+259,259,259,260,Luol Deng 2017,Timofey Mozgov 2017,Julius Randle 2017,D'Angelo Russell 2017,Nick Young 2017,402.22,6.4,6.4,LAL
+260,260,260,261,Tarik Black 2017,Jordan Clarkson 2017,Brandon Ingram 2017,Larry Nance Jr. 2017,Lou Williams 2017,194.44,8.1,8.1,LAL
+261,261,261,262,Tarik Black 2017,Brandon Ingram 2017,Julius Randle 2017,D'Angelo Russell 2017,Nick Young 2017,137.05,-13.9,-11.709154947916668,LAL
+262,262,262,263,Jordan Clarkson 2017,Brandon Ingram 2017,Larry Nance Jr. 2017,Julius Randle 2017,D'Angelo Russell 2017,107.17,-27.4,-18.053236197916668,LAL
+263,263,263,264,Jordan Clarkson 2017,Brandon Ingram 2017,Julius Randle 2017,D'Angelo Russell 2017,Ivica Zubac 2017,82.58,-15.6,-10.268624479166666,LAL
+264,264,264,265,Jordan Clarkson 2017,Brandon Ingram 2017,Julius Randle 2017,D'Angelo Russell 2017,Nick Young 2017,77.0,-10.3,-7.871223958333332,LAL
+265,265,265,266,Jordan Clarkson 2017,Luol Deng 2017,Brandon Ingram 2017,Larry Nance Jr. 2017,Lou Williams 2017,68.29,18.7,2.627364843750001,LAL
+266,266,266,267,Brandon Ingram 2017,Timofey Mozgov 2017,Julius Randle 2017,D'Angelo Russell 2017,Nick Young 2017,62.22,-31.0,-14.2671671875,LAL
+267,267,267,268,Jordan Clarkson 2017,Luol Deng 2017,Larry Nance Jr. 2017,Lou Williams 2017,Ivica Zubac 2017,57.06,-24.4,-11.6404390625,LAL
+268,268,268,269,José Calderón 2017,Luol Deng 2017,Timofey Mozgov 2017,Julius Randle 2017,Nick Young 2017,53.32,-28.7,-12.480940625,LAL
+269,269,269,270,Tarik Black 2017,Jordan Clarkson 2017,Brandon Ingram 2017,Thomas Robinson 2017,Lou Williams 2017,50.35,0.4,-4.50241796875,LAL
+270,270,270,271,Jordan Clarkson 2017,Brandon Ingram 2017,Larry Nance Jr. 2017,Lou Williams 2017,Ivica Zubac 2017,49.2,-20.7,-9.94909375,LAL
+271,271,271,272,Jordan Clarkson 2017,Luol Deng 2017,Brandon Ingram 2017,Thomas Robinson 2017,Lou Williams 2017,45.25,-9.9,-7.106399739583333,LAL
+272,272,272,273,Jordan Clarkson 2017,Brandon Ingram 2017,Larry Nance Jr. 2017,Julius Randle 2017,Lou Williams 2017,44.49,2.0,-4.334478906249998,LAL
+273,273,273,274,Tarik Black 2017,Jordan Clarkson 2017,Luol Deng 2017,Brandon Ingram 2017,Lou Williams 2017,42.58,5.5,-3.6403015625,LAL
+274,274,274,275,Jordan Clarkson 2017,Brandon Ingram 2017,Larry Nance Jr. 2017,Thomas Robinson 2017,Lou Williams 2017,42.18,9.3,-2.8299578124999987,LAL
+275,275,275,276,Tarik Black 2017,Luol Deng 2017,Timofey Mozgov 2017,D'Angelo Russell 2017,Nick Young 2017,41.13,16.5,-1.3725945312499994,LAL
+276,276,276,277,Tarik Black 2017,Jordan Clarkson 2017,Brandon Ingram 2017,Julius Randle 2017,Lou Williams 2017,39.51,6.4,-3.6428960937499992,LAL
+277,277,277,278,Luol Deng 2017,Brandon Ingram 2017,Timofey Mozgov 2017,D'Angelo Russell 2017,Nick Young 2017,33.55,19.7,-1.711381510416667,LAL
+278,278,278,279,Luol Deng 2017,Brandon Ingram 2017,Timofey Mozgov 2017,Julius Randle 2017,Nick Young 2017,31.1,-36.0,-11.064690104166667,LAL
+279,279,279,280,Tony Allen 2017,Mike Conley 2017,Marc Gasol 2017,JaMychal Green 2017,Chandler Parsons 2017,280.43,-4.6,-4.6,MEM
+280,280,280,281,Tony Allen 2017,Vince Carter 2017,Mike Conley 2017,Marc Gasol 2017,JaMychal Green 2017,164.23,19.8,17.00275104166667,MEM
+281,281,281,282,Tony Allen 2017,Mike Conley 2017,James Ennis 2017,Marc Gasol 2017,JaMychal Green 2017,153.45,-4.9,-3.8238125,MEM
+282,282,282,283,Tony Allen 2017,Marc Gasol 2017,JaMychal Green 2017,Andrew Harrison 2017,Troy Williams 2017,110.2,-8.4,-4.625270833333333,MEM
+283,283,283,284,Mike Conley 2017,James Ennis 2017,Marc Gasol 2017,JaMychal Green 2017,Chandler Parsons 2017,89.19,-5.4,-2.262153125,MEM
+284,284,284,285,Vince Carter 2017,Mike Conley 2017,James Ennis 2017,Marc Gasol 2017,JaMychal Green 2017,73.57,23.9,9.441670833333333,MEM
+285,285,285,286,Tony Allen 2017,Vince Carter 2017,Mike Conley 2017,Marc Gasol 2017,Zach Randolph 2017,70.37,11.0,4.323019791666666,MEM
+286,286,286,287,Vince Carter 2017,James Ennis 2017,Marc Gasol 2017,Andrew Harrison 2017,Zach Randolph 2017,63.15,4.9,1.92034375,MEM
+287,287,287,288,Tony Allen 2017,Troy Daniels 2017,Marc Gasol 2017,JaMychal Green 2017,Andrew Harrison 2017,54.24,23.3,6.912300000000001,MEM
+288,288,288,289,Vince Carter 2017,Mike Conley 2017,James Ennis 2017,Marc Gasol 2017,Zach Randolph 2017,53.41,-7.3,-1.6986541666666666,MEM
+289,289,289,290,Tony Allen 2017,Vince Carter 2017,Marc Gasol 2017,JaMychal Green 2017,Andrew Harrison 2017,47.35,-13.8,-3.056723958333333,MEM
+290,290,290,291,Vince Carter 2017,James Ennis 2017,JaMychal Green 2017,Andrew Harrison 2017,Zach Randolph 2017,47.26,6.3,1.8974916666666664,MEM
+291,291,291,292,Tony Allen 2017,Mike Conley 2017,James Ennis 2017,Marc Gasol 2017,Zach Randolph 2017,47.22,19.5,5.14265,MEM
+292,292,292,293,Tony Allen 2017,Mike Conley 2017,Troy Daniels 2017,Marc Gasol 2017,Zach Randolph 2017,46.49,23.2,5.966159375,MEM
+293,293,293,294,Mike Conley 2017,Troy Daniels 2017,James Ennis 2017,Zach Randolph 2017,Brandan Wright 2017,44.59,-11.0,-2.201465625000001,MEM
+294,294,294,295,Tony Allen 2017,Mike Conley 2017,Marc Gasol 2017,JaMychal Green 2017,Troy Williams 2017,41.25,-2.2,-0.1114843750000002,MEM
+295,295,295,296,Tony Allen 2017,Mike Conley 2017,Troy Daniels 2017,Marc Gasol 2017,JaMychal Green 2017,41.2,-25.4,-5.089125,MEM
+296,296,296,297,Tony Allen 2017,Vince Carter 2017,Mike Conley 2017,JaMychal Green 2017,Zach Randolph 2017,40.28,6.1,1.6432249999999995,MEM
+297,297,297,298,Mike Conley 2017,James Ennis 2017,Marc Gasol 2017,JaMychal Green 2017,Andrew Harrison 2017,38.44,-14.7,-2.575158333333333,MEM
+298,298,298,299,Vince Carter 2017,Mike Conley 2017,Troy Daniels 2017,Marc Gasol 2017,Zach Randolph 2017,34.27,-31.1,-5.17313125,MEM
+299,299,299,300,Luke Babbitt 2017,Goran Dragi? 2017,Rodney McGruder 2017,Dion Waiters 2017,Hassan Whiteside 2017,245.14,1.5,1.5,MIA
+300,300,300,301,Goran Dragi? 2017,Wayne Ellington 2017,James Johnson 2017,Tyler Johnson 2017,Willie Reed 2017,105.38,3.8,2.220989583333333,MIA
+301,301,301,302,Wayne Ellington 2017,James Johnson 2017,Tyler Johnson 2017,Willie Reed 2017,Josh Richardson 2017,102.0,3.0,1.7343750000000002,MIA
+302,302,302,303,Luke Babbitt 2017,Goran Dragi? 2017,Rodney McGruder 2017,Josh Richardson 2017,Hassan Whiteside 2017,99.37,9.9,5.268500000000001,MIA
+303,303,303,304,Goran Dragi? 2017,Wayne Ellington 2017,Rodney McGruder 2017,Josh McRoberts 2017,Hassan Whiteside 2017,95.01,-3.7,-1.679375,MIA
+304,304,304,305,Goran Dragi? 2017,James Johnson 2017,Tyler Johnson 2017,Josh Richardson 2017,Hassan Whiteside 2017,91.32,22.3,10.76375,MIA
+305,305,305,307,Goran Dragi? 2017,James Johnson 2017,Rodney McGruder 2017,Josh Richardson 2017,Hassan Whiteside 2017,75.34,-2.6,-0.8379479166666665,MIA
+306,306,306,308,Goran Dragi? 2017,James Johnson 2017,Tyler Johnson 2017,Dion Waiters 2017,Hassan Whiteside 2017,75.3,-7.8,-2.8767187499999998,MIA
+307,307,307,309,Goran Dragi? 2017,James Johnson 2017,Tyler Johnson 2017,Rodney McGruder 2017,Hassan Whiteside 2017,70.37,-7.1,-2.412177083333333,MIA
+308,308,308,310,Goran Dragi? 2017,Wayne Ellington 2017,James Johnson 2017,Tyler Johnson 2017,Hassan Whiteside 2017,67.23,-6.5,-2.0810625,MIA
+309,309,309,311,James Johnson 2017,Tyler Johnson 2017,Rodney McGruder 2017,Dion Waiters 2017,Hassan Whiteside 2017,67.2,-14.7,-4.95,MIA
+310,310,310,312,Goran Dragi? 2017,James Johnson 2017,Rodney McGruder 2017,Dion Waiters 2017,Hassan Whiteside 2017,53.4,30.0,8.5603125,MIA
+311,311,311,313,Wayne Ellington 2017,James Johnson 2017,Tyler Johnson 2017,Josh Richardson 2017,Hassan Whiteside 2017,52.07,-5.0,-1.137348958333333,MIA
+312,312,312,314,Goran Dragi? 2017,Josh Richardson 2017,Dion Waiters 2017,Hassan Whiteside 2017,Derrick Williams 2017,51.45,1.2,0.5411718750000003,MIA
+313,313,313,315,James Johnson 2017,Tyler Johnson 2017,Rodney McGruder 2017,Josh Richardson 2017,Hassan Whiteside 2017,50.44,-1.7,-0.2254166666666663,MIA
+314,314,314,316,Wayne Ellington 2017,James Johnson 2017,Tyler Johnson 2017,Rodney McGruder 2017,Willie Reed 2017,44.04,2.3,0.7587500000000003,MIA
+315,315,315,317,Goran Dragi? 2017,Wayne Ellington 2017,James Johnson 2017,Josh Richardson 2017,Hassan Whiteside 2017,41.28,10.1,2.4070000000000005,MIA
+316,316,316,318,Goran Dragi? 2017,Tyler Johnson 2017,Rodney McGruder 2017,Josh McRoberts 2017,Hassan Whiteside 2017,39.02,-25.7,-4.983958333333334,MIA
+317,317,317,319,Goran Dragi? 2017,Wayne Ellington 2017,Tyler Johnson 2017,Willie Reed 2017,Okaro White 2017,38.38,-3.6,-0.4795937499999997,MIA
+318,318,318,320,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,John Henson 2017,Jabari Parker 2017,Tony Snell 2017,388.29,-2.6,-2.6,MIL
+319,319,319,321,Giannis Antetokounmpo 2017,Malcolm Brogdon 2017,John Henson 2017,Jabari Parker 2017,Tony Snell 2017,177.57,-1.4,-0.9137390624999996,MIL
+320,320,320,322,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,Jabari Parker 2017,Miles Plumlee 2017,Tony Snell 2017,136.39,2.7,3.3864359375000013,MIL
+321,321,321,323,Giannis Antetokounmpo 2017,Malcolm Brogdon 2017,Thon Maker 2017,Khris Middleton 2017,Tony Snell 2017,134.39,8.1,7.1908421875,MIL
+322,322,322,324,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,Thon Maker 2017,Khris Middleton 2017,Tony Snell 2017,98.49,13.3,9.2917328125,MIL
+323,323,323,325,Giannis Antetokounmpo 2017,Michael Beasley 2017,Malcolm Brogdon 2017,Greg Monroe 2017,Jason Terry 2017,89.26,12.7,8.617155208333333,MIL
+324,324,324,326,Giannis Antetokounmpo 2017,Malcolm Brogdon 2017,Khris Middleton 2017,Greg Monroe 2017,Tony Snell 2017,85.13,2.4,3.8861609375000006,MIL
+325,325,325,327,Giannis Antetokounmpo 2017,Malcolm Brogdon 2017,Greg Monroe 2017,Mirza Teletovi? 2017,Jason Terry 2017,84.46,38.9,19.951676041666666,MIL
+326,326,326,328,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,Khris Middleton 2017,Greg Monroe 2017,Tony Snell 2017,73.14,-6.1,0.8149281250000011,MIL
+327,327,327,329,Matthew Dellavedova 2017,Khris Middleton 2017,Greg Monroe 2017,Mirza Teletovi? 2017,Jason Terry 2017,71.13,13.1,8.0448640625,MIL
+328,328,328,330,Giannis Antetokounmpo 2017,Malcolm Brogdon 2017,Greg Monroe 2017,Jabari Parker 2017,Tony Snell 2017,64.02,7.9,6.013628125,MIL
+329,329,329,331,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,Greg Monroe 2017,Tony Snell 2017,Jason Terry 2017,61.0,5.9,5.333697916666668,MIL
+330,330,330,332,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,Greg Monroe 2017,Jabari Parker 2017,Tony Snell 2017,59.44,-20.8,-2.938920833333332,MIL
+331,331,331,333,Michael Beasley 2017,Malcolm Brogdon 2017,Greg Monroe 2017,Jabari Parker 2017,Jason Terry 2017,55.09,12.1,7.087097395833334,MIL
+332,332,332,334,Michael Beasley 2017,Malcolm Brogdon 2017,Greg Monroe 2017,Jabari Parker 2017,Tony Snell 2017,50.14,-2.8,3.0147822916666667,MIL
+333,333,333,335,Giannis Antetokounmpo 2017,Matthew Dellavedova 2017,Greg Monroe 2017,Mirza Teletovi? 2017,Jason Terry 2017,49.25,-9.8,1.2556901041666668,MIL
+334,334,334,336,Malcolm Brogdon 2017,Greg Monroe 2017,Jabari Parker 2017,Mirza Teletovi? 2017,Jason Terry 2017,48.36,20.7,9.00680625,MIL
+335,335,335,337,Giannis Antetokounmpo 2017,Michael Beasley 2017,Matthew Dellavedova 2017,Thon Maker 2017,Tony Snell 2017,48.05,7.4,5.653106770833333,MIL
+336,336,336,338,Giannis Antetokounmpo 2017,Michael Beasley 2017,Matthew Dellavedova 2017,Greg Monroe 2017,Jason Terry 2017,48.03,10.9,6.5284109375,MIL
+337,337,337,339,Michael Beasley 2017,Malcolm Brogdon 2017,Greg Monroe 2017,Mirza Teletovi? 2017,Jason Terry 2017,43.24,-11.2,1.4058604166666682,MIL
+338,338,338,340,Gorgui Dieng 2017,Zach LaVine 2017,Ricky Rubio 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,878.46,-2.7,-2.7,MIN
+339,339,339,341,Gorgui Dieng 2017,Ricky Rubio 2017,Brandon Rush 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,594.16,1.4,1.4,MIN
+340,340,340,342,Gorgui Dieng 2017,Kris Dunn 2017,Zach LaVine 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,158.22,-3.6,-1.9202598684210528,MIN
+341,341,341,343,Gorgui Dieng 2017,Shabazz Muhammad 2017,Ricky Rubio 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,154.39,14.3,12.663841282894735,MIN
+342,342,342,344,Cole Aldrich 2017,Nemanja Bjelica 2017,Kris Dunn 2017,Zach LaVine 2017,Shabazz Muhammad 2017,133.13,-0.6,1.4075186403508773,MIN
+343,343,343,345,Nemanja Bjelica 2017,Kris Dunn 2017,Tyus Jones 2017,Shabazz Muhammad 2017,Karl-Anthony Towns 2017,81.18,-0.6,3.179059210526316,MIN
+344,344,344,347,Nemanja Bjelica 2017,Gorgui Dieng 2017,Kris Dunn 2017,Zach LaVine 2017,Shabazz Muhammad 2017,69.5,16.5,9.767201206140351,MIN
+345,345,345,348,Nemanja Bjelica 2017,Zach LaVine 2017,Ricky Rubio 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,61.48,-5.8,2.185763157894737,MIN
+346,346,346,349,Gorgui Dieng 2017,Kris Dunn 2017,Ricky Rubio 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,56.14,-2.0,3.6235910087719287,MIN
+347,347,347,350,Nemanja Bjelica 2017,Shabazz Muhammad 2017,Ricky Rubio 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,54.28,-7.1,2.258768640350877,MIN
+348,348,348,351,Nemanja Bjelica 2017,Ricky Rubio 2017,Brandon Rush 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,50.4,9.4,6.853684210526318,MIN
+349,349,349,352,Gorgui Dieng 2017,Tyus Jones 2017,Ricky Rubio 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,49.1,23.5,10.436088267543859,MIN
+350,350,350,353,Gorgui Dieng 2017,Kris Dunn 2017,Shabazz Muhammad 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,39.07,24.7,9.76333360745614,MIN
+351,351,351,354,Nemanja Bjelica 2017,Gorgui Dieng 2017,Shabazz Muhammad 2017,Ricky Rubio 2017,Andrew Wiggins 2017,37.21,-4.4,3.942026864035088,MIN
+352,352,352,355,Nemanja Bjelica 2017,Gorgui Dieng 2017,Kris Dunn 2017,Shabazz Muhammad 2017,Andrew Wiggins 2017,37.12,4.9,5.744877192982456,MIN
+353,353,353,356,Nemanja Bjelica 2017,Kris Dunn 2017,Shabazz Muhammad 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,35.56,-2.7,4.345803728070177,MIN
+354,354,354,357,Gorgui Dieng 2017,Tyus Jones 2017,Zach LaVine 2017,Karl-Anthony Towns 2017,Andrew Wiggins 2017,35.49,23.2,9.136409539473686,MIN
+355,355,355,358,Nemanja Bjelica 2017,Gorgui Dieng 2017,Ricky Rubio 2017,Brandon Rush 2017,Andrew Wiggins 2017,33.21,46.0,12.875222039473686,MIN
+356,356,356,359,Cole Aldrich 2017,Nemanja Bjelica 2017,Kris Dunn 2017,Shabazz Muhammad 2017,Andrew Wiggins 2017,32.42,-21.4,1.3296513157894745,MIN
+357,357,357,360,Dante Cunningham 2017,Anthony Davis 2017,Buddy Hield 2017,Solomon Hill 2017,Jrue Holiday 2017,189.18,10.9,10.741375,NOP
+358,358,358,361,Anthony Davis 2017,Buddy Hield 2017,Solomon Hill 2017,Jrue Holiday 2017,Terrence Jones 2017,121.09,9.6,6.091432291666668,NOP
+359,359,359,362,Ömer Asik 2017,Anthony Davis 2017,Tim Frazier 2017,Solomon Hill 2017,E'Twaun Moore 2017,115.18,2.4,1.479760416666667,NOP
+360,360,360,363,Dante Cunningham 2017,Anthony Davis 2017,Solomon Hill 2017,Jrue Holiday 2017,E'Twaun Moore 2017,106.35,11.0,6.137578124999999,NOP
+361,361,361,366,Alexis Ajinça 2017,Anthony Davis 2017,Buddy Hield 2017,Solomon Hill 2017,Jrue Holiday 2017,81.04,0.0,0.05779166666666705,NOP
+362,362,362,369,Dante Cunningham 2017,Anthony Davis 2017,Tim Frazier 2017,Solomon Hill 2017,E'Twaun Moore 2017,56.21,17.1,5.0769270833333335,NOP
+363,363,363,370,Ömer Asik 2017,Dante Cunningham 2017,Anthony Davis 2017,Tim Frazier 2017,E'Twaun Moore 2017,55.54,9.0,2.6745104166666667,NOP
+364,364,364,372,Dante Cunningham 2017,Tyreke Evans 2017,Langston Galloway 2017,Terrence Jones 2017,E'Twaun Moore 2017,46.48,-5.4,-1.2314583333333329,NOP
+365,365,365,373,Dante Cunningham 2017,Anthony Davis 2017,Tim Frazier 2017,Solomon Hill 2017,Jrue Holiday 2017,45.45,-0.8,-0.1130468749999995,NOP
+366,366,366,374,Alexis Ajinça 2017,Dante Cunningham 2017,Tim Frazier 2017,Solomon Hill 2017,Jrue Holiday 2017,41.48,-16.2,-3.4214791666666664,NOP
+367,367,367,375,Tyreke Evans 2017,Langston Galloway 2017,Solomon Hill 2017,Terrence Jones 2017,E'Twaun Moore 2017,37.07,-17.6,-3.3173906250000003,NOP
+368,368,368,376,Anthony Davis 2017,Tim Frazier 2017,Solomon Hill 2017,Terrence Jones 2017,E'Twaun Moore 2017,36.53,9.3,1.850395833333334,NOP
+369,369,369,377,Anthony Davis 2017,Solomon Hill 2017,Jrue Holiday 2017,Terrence Jones 2017,E'Twaun Moore 2017,33.23,-4.0,-0.6095989583333328,NOP
+370,370,370,378,Ömer Asik 2017,Anthony Davis 2017,Tim Frazier 2017,Buddy Hield 2017,Solomon Hill 2017,31.38,-23.9,-3.822499999999999,NOP
+371,371,371,380,Carmelo Anthony 2017,Courtney Lee 2017,Joakim Noah 2017,Kristaps Porzingis 2017,Derrick Rose 2017,394.47,-5.7,-5.7,NYK
+372,372,372,381,Carmelo Anthony 2017,Willy Hernangómez 2017,Courtney Lee 2017,Kristaps Porzingis 2017,Derrick Rose 2017,171.47,-10.5,-8.8543921875,NYK
+373,373,373,382,Carmelo Anthony 2017,Courtney Lee 2017,Kristaps Porzingis 2017,Derrick Rose 2017,Lance Thomas 2017,108.34,7.3,6.249892708333333,NYK
+374,374,374,383,Carmelo Anthony 2017,Brandon Jennings 2017,Courtney Lee 2017,Joakim Noah 2017,Kristaps Porzingis 2017,108.28,-8.7,-2.77419375,NYK
+375,375,375,384,Carmelo Anthony 2017,Willy Hernangómez 2017,Courtney Lee 2017,Derrick Rose 2017,Lance Thomas 2017,92.02,-8.1,-1.3357281249999993,NYK
+376,376,376,385,Carmelo Anthony 2017,Courtney Lee 2017,Kyle O'Quinn 2017,Kristaps Porzingis 2017,Derrick Rose 2017,83.43,-7.7,-0.5807484375000005,NYK
+377,377,377,386,Carmelo Anthony 2017,Courtney Lee 2017,Joakim Noah 2017,Derrick Rose 2017,Lance Thomas 2017,71.3,18.2,9.832723958333332,NYK
+378,378,378,387,Carmelo Anthony 2017,Courtney Lee 2017,Kyle O'Quinn 2017,Derrick Rose 2017,Lance Thomas 2017,68.13,-14.1,-1.8484828124999984,NYK
+379,379,379,388,Carmelo Anthony 2017,Brandon Jennings 2017,Courtney Lee 2017,Kristaps Porzingis 2017,Derrick Rose 2017,53.37,0.9,3.780904687500001,NYK
+380,380,380,389,Ron Baker 2017,Willy Hernangómez 2017,Justin Holiday 2017,Courtney Lee 2017,Maurice Ndour 2017,45.17,16.0,7.503743229166667,NYK
+381,381,381,390,Willy Hernangómez 2017,Justin Holiday 2017,Brandon Jennings 2017,Mindaugas Kuzminskas 2017,Kristaps Porzingis 2017,44.4,26.6,9.9104375,NYK
+382,382,382,391,Justin Holiday 2017,Brandon Jennings 2017,Kyle O'Quinn 2017,Kristaps Porzingis 2017,Lance Thomas 2017,38.34,0.4,3.993403125,NYK
+383,383,383,392,Carmelo Anthony 2017,Justin Holiday 2017,Joakim Noah 2017,Kristaps Porzingis 2017,Derrick Rose 2017,37.06,18.3,7.478409375,NYK
+384,384,384,393,Carmelo Anthony 2017,Justin Holiday 2017,Courtney Lee 2017,Kristaps Porzingis 2017,Derrick Rose 2017,36.3,17.2,7.217359375,NYK
+385,385,385,394,Ron Baker 2017,Willy Hernangómez 2017,Courtney Lee 2017,Kristaps Porzingis 2017,Sasha Vujaci? 2017,35.55,-10.1,2.1145078125000003,NYK
+386,386,386,395,Carmelo Anthony 2017,Brandon Jennings 2017,Courtney Lee 2017,Kyle O'Quinn 2017,Kristaps Porzingis 2017,31.55,-7.9,2.7883098958333337,NYK
+387,387,387,396,Justin Holiday 2017,Brandon Jennings 2017,Mindaugas Kuzminskas 2017,Kyle O'Quinn 2017,Kristaps Porzingis 2017,30.03,22.4,7.628673437500002,NYK
+388,388,388,397,Carmelo Anthony 2017,Brandon Jennings 2017,Courtney Lee 2017,Kyle O'Quinn 2017,Lance Thomas 2017,28.49,-1.9,3.882463020833333,NYK
+389,389,389,398,Carmelo Anthony 2017,Justin Holiday 2017,Kyle O'Quinn 2017,Kristaps Porzingis 2017,Derrick Rose 2017,27.51,13.3,6.094995312500001,NYK
+390,390,390,399,Carmelo Anthony 2017,Mindaugas Kuzminskas 2017,Courtney Lee 2017,Joakim Noah 2017,Derrick Rose 2017,26.37,31.9,8.599654687500001,NYK
+391,391,391,400,Steven Adams 2017,Victor Oladipo 2017,Andre Roberson 2017,Domantas Sabonis 2017,Russell Westbrook 2017,629.2,3.7,3.7,OKC
+392,392,392,401,Steven Adams 2017,Taj Gibson 2017,Victor Oladipo 2017,Andre Roberson 2017,Russell Westbrook 2017,207.28,13.0,13.0,OKC
+393,393,393,402,Steven Adams 2017,Jerami Grant 2017,Victor Oladipo 2017,Andre Roberson 2017,Russell Westbrook 2017,128.26,14.1,10.569401562499998,OKC
+394,394,394,403,Steven Adams 2017,Anthony Morrow 2017,Andre Roberson 2017,Domantas Sabonis 2017,Russell Westbrook 2017,119.42,-8.2,-3.7903869791666662,OKC
+395,395,395,404,Álex Abrines 2017,Steven Adams 2017,Andre Roberson 2017,Domantas Sabonis 2017,Russell Westbrook 2017,103.53,2.3,2.83681015625,OKC
+396,396,396,405,Steven Adams 2017,Enes Kanter 2017,Victor Oladipo 2017,Andre Roberson 2017,Russell Westbrook 2017,89.47,2.2,2.875523177083333,OKC
+397,397,397,406,Álex Abrines 2017,Semaj Christon 2017,Jerami Grant 2017,Enes Kanter 2017,Joffrey Lauvergne 2017,80.25,-15.7,-4.545371093749999,OKC
+398,398,398,407,Álex Abrines 2017,Steven Adams 2017,Enes Kanter 2017,Andre Roberson 2017,Russell Westbrook 2017,74.01,31.0,14.078882031250002,OKC
+399,399,399,408,Álex Abrines 2017,Semaj Christon 2017,Enes Kanter 2017,Victor Oladipo 2017,Domantas Sabonis 2017,49.53,21.3,8.06587265625,OKC
+400,400,400,409,Steven Adams 2017,Joffrey Lauvergne 2017,Victor Oladipo 2017,Andre Roberson 2017,Russell Westbrook 2017,46.39,-15.1,-1.0205747395833331,OKC
+401,401,401,410,Semaj Christon 2017,Enes Kanter 2017,Doug McDermott 2017,Victor Oladipo 2017,Domantas Sabonis 2017,42.42,20.0,7.1182015625,OKC
+402,402,402,411,Steven Adams 2017,Enes Kanter 2017,Anthony Morrow 2017,Andre Roberson 2017,Russell Westbrook 2017,38.4,-12.0,0.3720000000000003,OKC
+403,403,403,412,Jerami Grant 2017,Enes Kanter 2017,Victor Oladipo 2017,Andre Roberson 2017,Russell Westbrook 2017,37.54,-16.2,-0.37991718750000025,OKC
+404,404,404,413,Steven Adams 2017,Taj Gibson 2017,Doug McDermott 2017,Victor Oladipo 2017,Russell Westbrook 2017,33.3,0.0,2.8640390625,OKC
+405,405,405,414,Álex Abrines 2017,Semaj Christon 2017,Jerami Grant 2017,Enes Kanter 2017,Victor Oladipo 2017,33.19,-4.8,2.03627421875,OKC
+406,406,406,415,Steven Adams 2017,Jerami Grant 2017,Andre Roberson 2017,Domantas Sabonis 2017,Russell Westbrook 2017,33.03,4.4,3.62584921875,OKC
+407,407,407,416,Steven Adams 2017,Jerami Grant 2017,Victor Oladipo 2017,Domantas Sabonis 2017,Russell Westbrook 2017,28.13,30.0,7.35265390625,OKC
+408,408,408,417,Jerami Grant 2017,Victor Oladipo 2017,Andre Roberson 2017,Domantas Sabonis 2017,Russell Westbrook 2017,27.09,-38.0,-2.38545234375,OKC
+409,409,409,418,Steven Adams 2017,Jerami Grant 2017,Enes Kanter 2017,Victor Oladipo 2017,Russell Westbrook 2017,26.03,33.6,7.55048984375,OKC
+410,410,410,419,Álex Abrines 2017,Enes Kanter 2017,Andre Roberson 2017,Domantas Sabonis 2017,Russell Westbrook 2017,25.29,3.7,3.49595390625,OKC
+411,411,411,420,Evan Fournier 2017,Aaron Gordon 2017,Elfrid Payton 2017,Terrence Ross 2017,Nikola Vucevi? 2017,409.19,0.9,0.9,ORL
+412,412,412,421,Evan Fournier 2017,Aaron Gordon 2017,Serge Ibaka 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,295.15,-2.2,-2.2,ORL
+413,413,413,422,D.J. Augustin 2017,Bismack Biyombo 2017,Evan Fournier 2017,Aaron Gordon 2017,Serge Ibaka 2017,195.43,-9.8,-9.8,ORL
+414,414,414,423,Evan Fournier 2017,Jeff Green 2017,Serge Ibaka 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,180.37,-0.7,-0.6357927083333332,ORL
+415,415,415,424,D.J. Augustin 2017,Bismack Biyombo 2017,Jeff Green 2017,Mario Hezonja 2017,C.J. Watson 2017,114.53,-11.8,-6.893566666666668,ORL
+416,416,416,425,Aaron Gordon 2017,Serge Ibaka 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,C.J. Watson 2017,111.48,-14.5,-8.2680875,ORL
+417,417,417,426,Bismack Biyombo 2017,Evan Fournier 2017,Aaron Gordon 2017,Elfrid Payton 2017,Terrence Ross 2017,105.02,5.8,3.335566666666667,ORL
+418,418,418,427,Bismack Biyombo 2017,Evan Fournier 2017,Aaron Gordon 2017,Serge Ibaka 2017,Elfrid Payton 2017,84.26,3.1,1.562460416666667,ORL
+419,419,419,428,Aaron Gordon 2017,Serge Ibaka 2017,Jodie Meeks 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,83.09,3.3,1.632315625,ORL
+420,420,420,429,D.J. Augustin 2017,Evan Fournier 2017,Aaron Gordon 2017,Serge Ibaka 2017,Nikola Vucevi? 2017,74.51,24.7,9.805694791666667,ORL
+421,421,421,430,Bismack Biyombo 2017,Jeff Green 2017,Jodie Meeks 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,62.46,-2.1,-0.4402687500000001,ORL
+422,422,422,431,D.J. Augustin 2017,Bismack Biyombo 2017,Aaron Gordon 2017,Serge Ibaka 2017,Jodie Meeks 2017,60.15,-1.6,-0.2540312500000001,ORL
+423,423,423,432,Bismack Biyombo 2017,Jeff Green 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,C.J. Watson 2017,58.16,11.4,3.7042,ORL
+424,424,424,433,Evan Fournier 2017,Aaron Gordon 2017,Jeff Green 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,45.4,-21.3,-4.7616875,ORL
+425,425,425,434,Bismack Biyombo 2017,Evan Fournier 2017,Jeff Green 2017,Serge Ibaka 2017,Elfrid Payton 2017,45.09,15.8,3.9859875,ORL
+426,426,426,435,D.J. Augustin 2017,Bismack Biyombo 2017,Aaron Gordon 2017,Damjan Rudeaz 2017,C.J. Watson 2017,44.0,16.1,3.9670833333333335,ORL
+427,427,427,436,D.J. Augustin 2017,Bismack Biyombo 2017,Evan Fournier 2017,Jeff Green 2017,Mario Hezonja 2017,41.3,-3.5,-0.4703020833333333,ORL
+428,428,428,437,Evan Fournier 2017,Aaron Gordon 2017,Mario Hezonja 2017,Elfrid Payton 2017,Nikola Vucevi? 2017,39.57,9.8,2.305525,ORL
+429,429,429,438,D.J. Augustin 2017,Bismack Biyombo 2017,Jeff Green 2017,Mario Hezonja 2017,Terrence Ross 2017,36.36,-11.9,-1.9617375,ORL
+430,430,430,439,D.J. Augustin 2017,Bismack Biyombo 2017,Jeff Green 2017,Mario Hezonja 2017,Elfrid Payton 2017,35.41,-4.3,-0.4994302083333333,ORL
+431,431,431,440,Robert Covington 2017,Joel Embiid 2017,Ersan Ilyasova 2017,T.J. McConnell 2017,Nik Stauskas 2017,114.25,16.0,5.928945312500002,PHI
+432,432,432,441,Robert Covington 2017,Joel Embiid 2017,Gerald Henderson 2017,Ersan Ilyasova 2017,Sergio Rodríguez 2017,102.22,3.6,-2.231023958333334,PHI
+433,433,433,442,Justin Anderson 2017,Richaun Holmes 2017,Timothé Luwawu-Cabarrot 2017,T.J. McConnell 2017,Dario Sari? 2017,95.06,-22.6,-15.667780208333335,PHI
+434,434,434,443,Robert Covington 2017,Joel Embiid 2017,Gerald Henderson 2017,Sergio Rodríguez 2017,Dario Sari? 2017,82.42,12.2,0.1747364583333324,PHI
+435,435,435,444,Robert Covington 2017,Ersan Ilyasova 2017,T.J. McConnell 2017,Jahlil Okafor 2017,Nik Stauskas 2017,80.26,-14.6,-11.265259375,PHI
+436,436,436,445,Robert Covington 2017,Ersan Ilyasova 2017,T.J. McConnell 2017,Nerlens Noel 2017,Nik Stauskas 2017,69.54,-4.9,-7.432115625,PHI
+437,437,437,446,Robert Covington 2017,Gerald Henderson 2017,Ersan Ilyasova 2017,T.J. McConnell 2017,Nerlens Noel 2017,66.18,2.8,-4.847496875000001,PHI
+438,438,438,447,Robert Covington 2017,Gerald Henderson 2017,T.J. McConnell 2017,Jahlil Okafor 2017,Dario Sari? 2017,64.41,-21.1,-12.9727828125,PHI
+439,439,439,448,Robert Covington 2017,Gerald Henderson 2017,Ersan Ilyasova 2017,Jahlil Okafor 2017,Sergio Rodríguez 2017,60.45,-23.3,-13.4131953125,PHI
+440,440,440,449,Robert Covington 2017,Richaun Holmes 2017,Timothé Luwawu-Cabarrot 2017,T.J. McConnell 2017,Dario Sari? 2017,60.34,-4.6,-7.5280635416666675,PHI
+441,441,441,450,Robert Covington 2017,Joel Embiid 2017,Gerald Henderson 2017,Jahlil Okafor 2017,Sergio Rodríguez 2017,57.38,-34.1,-16.410090625000002,PHI
+442,442,442,451,Robert Covington 2017,Gerald Henderson 2017,Ersan Ilyasova 2017,T.J. McConnell 2017,Jahlil Okafor 2017,56.04,-15.3,-10.74675625,PHI
+443,443,443,452,Robert Covington 2017,Gerald Henderson 2017,Richaun Holmes 2017,T.J. McConnell 2017,Dario Sari? 2017,55.51,-6.0,-8.040241145833335,PHI
+444,444,444,453,Robert Covington 2017,Gerald Henderson 2017,Jahlil Okafor 2017,Sergio Rodríguez 2017,Dario Sari? 2017,54.53,-43.1,-18.5916765625,PHI
+445,445,445,454,Robert Covington 2017,Richaun Holmes 2017,T.J. McConnell 2017,Dario Sari? 2017,Nik Stauskas 2017,53.16,-10.2,-9.23824375,PHI
+446,446,446,455,Richaun Holmes 2017,Timothé Luwawu-Cabarrot 2017,T.J. McConnell 2017,Dario Sari? 2017,Nik Stauskas 2017,51.5,-6.3,-8.180651041666668,PHI
+447,447,447,456,Robert Covington 2017,T.J. McConnell 2017,Jahlil Okafor 2017,Dario Sari? 2017,Nik Stauskas 2017,51.04,-15.3,-10.579308333333334,PHI
+448,448,448,457,Robert Covington 2017,T.J. McConnell 2017,Nerlens Noel 2017,Dario Sari? 2017,Nik Stauskas 2017,47.3,-2.3,-7.251453125,PHI
+449,449,449,458,Robert Covington 2017,Timothé Luwawu-Cabarrot 2017,T.J. McConnell 2017,Jahlil Okafor 2017,Dario Sari? 2017,46.34,0.0,-6.729188541666668,PHI
+450,450,450,459,Robert Covington 2017,Gerald Henderson 2017,Richaun Holmes 2017,Sergio Rodríguez 2017,Dario Sari? 2017,44.25,11.7,-4.1292578125000015,PHI
+451,451,451,460,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,Marquese Chriss 2017,T.J. Warren 2017,294.34,-6.5,-6.5,PHO
+452,452,452,461,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,Marquese Chriss 2017,P.J. Tucker 2017,283.05,-5.4,-5.4,PHO
+453,453,453,462,Eric Bledsoe 2017,Devin Booker 2017,Marquese Chriss 2017,Alex Len 2017,T.J. Warren 2017,204.53,-12.4,-12.4,PHO
+454,454,454,463,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,P.J. Tucker 2017,T.J. Warren 2017,156.19,3.5,1.9342450520833332,PHO
+455,455,455,464,Devin Booker 2017,Marquese Chriss 2017,Alex Len 2017,Tyler Ulis 2017,T.J. Warren 2017,129.26,-13.1,-10.4188453125,PHO
+456,456,456,465,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,Jared Dudley 2017,T.J. Warren 2017,114.42,-2.8,-3.6465109375,PHO
+457,457,457,466,Leandro Barbosa 2017,Jared Dudley 2017,Derrick Jones Jr. 2017,Tyler Ulis 2017,Alan Williams 2017,73.01,9.5,0.5788486979166678,PHO
+458,458,458,467,Leandro Barbosa 2017,Jared Dudley 2017,Brandon Knight 2017,Alex Len 2017,P.J. Tucker 2017,57.06,-1.5,-3.8860484375,PHO
+459,459,459,468,Eric Bledsoe 2017,Devin Booker 2017,Marquese Chriss 2017,Brandon Knight 2017,Alex Len 2017,57.0,6.5,-1.5121093749999996,PHO
+460,460,460,469,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,Brandon Knight 2017,P.J. Tucker 2017,50.53,2.1,-3.0540763020833332,PHO
+461,461,461,470,Devin Booker 2017,Jared Dudley 2017,Tyler Ulis 2017,T.J. Warren 2017,Alan Williams 2017,46.11,-1.7,-4.12770078125,PHO
+462,462,462,471,Leandro Barbosa 2017,Dragan Bender 2017,Jared Dudley 2017,Brandon Knight 2017,Alex Len 2017,43.45,-12.9,-6.706548177083333,PHO
+463,463,463,472,Leandro Barbosa 2017,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,P.J. Tucker 2017,43.13,6.7,-2.29035234375,PHO
+464,464,464,473,Devin Booker 2017,Marquese Chriss 2017,Derrick Jones Jr. 2017,Alex Len 2017,Tyler Ulis 2017,40.35,-2.2,-4.32862890625,PHO
+465,465,465,474,Devin Booker 2017,Brandon Knight 2017,Alex Len 2017,P.J. Tucker 2017,T.J. Warren 2017,40.0,-33.0,-10.750208333333333,PHO
+466,466,466,475,Devin Booker 2017,Marquese Chriss 2017,Tyler Ulis 2017,T.J. Warren 2017,Alan Williams 2017,39.22,-27.9,-9.594250520833333,PHO
+467,467,467,476,Marquese Chriss 2017,Derrick Jones Jr. 2017,Alex Len 2017,Tyler Ulis 2017,T.J. Warren 2017,39.2,-15.9,-7.1418541666666675,PHO
+468,468,468,477,Eric Bledsoe 2017,Devin Booker 2017,Tyson Chandler 2017,Alex Len 2017,P.J. Tucker 2017,39.05,22.3,0.6360664062499999,PHO
+469,469,469,478,Eric Bledsoe 2017,Devin Booker 2017,Brandon Knight 2017,Alex Len 2017,P.J. Tucker 2017,35.44,-24.9,-8.587589583333333,PHO
+470,470,470,479,Leandro Barbosa 2017,Dragan Bender 2017,Jared Dudley 2017,Brandon Knight 2017,P.J. Tucker 2017,35.3,11.7,-1.8439401041666668,PHO
+471,471,471,480,Al-Farouq Aminu 2017,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,254.14,9.9,9.9,POR
+472,472,472,481,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Jusuf Nurki? 2017,Noah Vonleh 2017,228.23,6.2,6.2,POR
+473,473,473,482,Ed Davis 2017,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,164.17,-2.5,-1.8817971354166665,POR
+474,474,474,483,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,Evan Turner 2017,Noah Vonleh 2017,117.22,1.7,1.7253161458333333,POR
+475,475,475,484,Allen Crabbe 2017,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,106.22,12.0,7.427300520833334,POR
+476,476,476,485,Al-Farouq Aminu 2017,Allen Crabbe 2017,Maurice Harkless 2017,CJ McCollum 2017,Mason Plumlee 2017,87.02,0.5,1.1916651041666668,POR
+477,477,477,486,Al-Farouq Aminu 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,Evan Turner 2017,81.35,19.0,9.06743359375,POR
+478,478,478,487,Al-Farouq Aminu 2017,Allen Crabbe 2017,Meyers Leonard 2017,CJ McCollum 2017,Shabazz Napier 2017,80.41,7.5,4.166829947916666,POR
+479,479,479,488,Allen Crabbe 2017,Maurice Harkless 2017,Damian Lillard 2017,Mason Plumlee 2017,Evan Turner 2017,76.4,4.8,2.972677083333333,POR
+480,480,480,489,Al-Farouq Aminu 2017,Allen Crabbe 2017,Meyers Leonard 2017,CJ McCollum 2017,Evan Turner 2017,75.48,-12.3,-3.764303125000001,POR
+481,481,481,490,Al-Farouq Aminu 2017,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Jusuf Nurki? 2017,71.59,3.3,2.3373471354166666,POR
+482,482,482,491,Al-Farouq Aminu 2017,Allen Crabbe 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,70.17,-8.7,-2.05963046875,POR
+483,483,483,492,Pat Connaughton 2017,Jake Layman 2017,Meyers Leonard 2017,Shabazz Napier 2017,Noah Vonleh 2017,69.38,10.7,4.993699479166667,POR
+484,484,484,493,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,Noah Vonleh 2017,63.04,-30.3,-8.763008333333332,POR
+485,485,485,494,Allen Crabbe 2017,Ed Davis 2017,Maurice Harkless 2017,CJ McCollum 2017,Evan Turner 2017,63.03,15.6,6.30677109375,POR
+486,486,486,495,Al-Farouq Aminu 2017,Allen Crabbe 2017,Meyers Leonard 2017,Damian Lillard 2017,Evan Turner 2017,60.19,18.8,7.105295052083332,POR
+487,487,487,496,Al-Farouq Aminu 2017,Allen Crabbe 2017,Maurice Harkless 2017,Damian Lillard 2017,Jusuf Nurki? 2017,58.45,-8.9,-1.48171484375,POR
+488,488,488,497,Allen Crabbe 2017,Meyers Leonard 2017,CJ McCollum 2017,Evan Turner 2017,Noah Vonleh 2017,57.37,-9.2,-1.5113648437499996,POR
+489,489,489,498,Maurice Harkless 2017,Meyers Leonard 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,56.08,8.7,3.790597916666666,POR
+490,490,490,499,Maurice Harkless 2017,Damian Lillard 2017,CJ McCollum 2017,Mason Plumlee 2017,Evan Turner 2017,54.01,-11.5,-1.9664721354166663,POR
+491,491,491,500,Arron Afflalo 2017,DeMarcus Cousins 2017,Rudy Gay 2017,Kosta Koufos 2017,Ty Lawson 2017,144.34,2.5,0.9623582175925932,SAC
+492,492,492,501,Arron Afflalo 2017,Darren Collison 2017,DeMarcus Cousins 2017,Kosta Koufos 2017,Garrett Temple 2017,113.25,-2.8,-3.1668619791666663,SAC
+493,493,493,502,Matt Barnes 2017,Darren Collison 2017,DeMarcus Cousins 2017,Kosta Koufos 2017,Ben McLemore 2017,90.24,-24.1,-13.285055555555555,SAC
+494,494,494,503,Arron Afflalo 2017,Darren Collison 2017,DeMarcus Cousins 2017,Kosta Koufos 2017,Ben McLemore 2017,87.47,-18.6,-10.485011863425926,SAC
+495,495,495,504,Darren Collison 2017,DeMarcus Cousins 2017,Rudy Gay 2017,Garrett Temple 2017,Anthony Tolliver 2017,78.34,-16.3,-8.837773726851852,SAC
+496,496,496,505,Arron Afflalo 2017,Darren Collison 2017,DeMarcus Cousins 2017,Rudy Gay 2017,Kosta Koufos 2017,70.05,1.6,-1.7627994791666663,SAC
+497,497,497,506,Matt Barnes 2017,Willie Cauley-Stein 2017,Ty Lawson 2017,Malachi Richardson 2017,Anthony Tolliver 2017,66.0,5.9,-0.3963541666666659,SAC
+498,498,498,508,Arron Afflalo 2017,Matt Barnes 2017,DeMarcus Cousins 2017,Rudy Gay 2017,Ty Lawson 2017,56.05,-14.6,-6.878071469907407,SAC
+499,499,499,509,Darren Collison 2017,DeMarcus Cousins 2017,Rudy Gay 2017,Kosta Koufos 2017,Ben McLemore 2017,52.12,9.4,-0.13984837962962926,SAC
+500,500,500,511,Matt Barnes 2017,DeMarcus Cousins 2017,Ty Lawson 2017,Garrett Temple 2017,Anthony Tolliver 2017,44.1,2.2,-2.3405642361111103,SAC
+501,501,501,512,Arron Afflalo 2017,Matt Barnes 2017,Darren Collison 2017,DeMarcus Cousins 2017,Rudy Gay 2017,43.12,-13.7,-5.941525462962963,SAC
+502,502,502,513,Matt Barnes 2017,Darren Collison 2017,DeMarcus Cousins 2017,Ty Lawson 2017,Anthony Tolliver 2017,42.43,36.1,5.0997132523148165,SAC
+503,503,503,514,Arron Afflalo 2017,DeMarcus Cousins 2017,Ty Lawson 2017,Garrett Temple 2017,Anthony Tolliver 2017,41.27,19.6,1.3126478587962973,SAC
+504,504,504,515,Arron Afflalo 2017,Matt Barnes 2017,Darren Collison 2017,DeMarcus Cousins 2017,Garrett Temple 2017,38.19,-22.3,-7.3952057291666655,SAC
+505,505,505,516,Matt Barnes 2017,Darren Collison 2017,DeMarcus Cousins 2017,Rudy Gay 2017,Ty Lawson 2017,37.58,5.3,-1.9339693287037036,SAC
+506,506,506,517,Matt Barnes 2017,Darren Collison 2017,DeMarcus Cousins 2017,Ben McLemore 2017,Anthony Tolliver 2017,36.48,6.0,-1.8525,SAC
+507,507,507,518,Arron Afflalo 2017,Darren Collison 2017,DeMarcus Cousins 2017,Garrett Temple 2017,Anthony Tolliver 2017,36.18,-41.5,-10.818428819444444,SAC
+508,508,508,519,Arron Afflalo 2017,Willie Cauley-Stein 2017,Darren Collison 2017,Buddy Hield 2017,Skal Labissière 2017,35.58,-1.2,-3.2321927083333333,SAC
+509,509,509,520,LaMarcus Aldridge 2017,Pau Gasol 2017,Danny Green 2017,Kawhi Leonard 2017,Tony Parker 2017,390.35,8.3,8.3,SAS
+510,510,510,521,LaMarcus Aldridge 2017,Dewayne Dedmon 2017,Danny Green 2017,Kawhi Leonard 2017,Tony Parker 2017,256.35,5.2,5.2,SAS
+511,511,511,522,LaMarcus Aldridge 2017,Pau Gasol 2017,Manu Ginóbili 2017,Kawhi Leonard 2017,Patty Mills 2017,121.06,-6.2,-1.515004166666666,SAS
+512,512,512,523,LaMarcus Aldridge 2017,Danny Green 2017,David Lee 2017,Kawhi Leonard 2017,Tony Parker 2017,92.57,6.5,6.489642708333332,SAS
+513,513,513,524,LaMarcus Aldridge 2017,Pau Gasol 2017,Danny Green 2017,Kawhi Leonard 2017,Patty Mills 2017,85.41,22.6,13.65088125,SAS
+514,514,514,525,LaMarcus Aldridge 2017,Manu Ginóbili 2017,David Lee 2017,Kawhi Leonard 2017,Patty Mills 2017,83.47,-6.4,0.8805541666666667,SAS
+515,515,515,526,Dewayne Dedmon 2017,Manu Ginóbili 2017,David Lee 2017,Patty Mills 2017,Jonathon Simmons 2017,72.47,35.8,17.546772916666665,SAS
+516,516,516,527,Pau Gasol 2017,Manu Ginóbili 2017,David Lee 2017,Kawhi Leonard 2017,Patty Mills 2017,70.05,6.4,6.450812500000001,SAS
+517,517,517,528,LaMarcus Aldridge 2017,Pau Gasol 2017,Manu Ginóbili 2017,Kawhi Leonard 2017,Tony Parker 2017,55.09,-5.2,3.1286916666666684,SAS
+518,518,518,529,LaMarcus Aldridge 2017,Pau Gasol 2017,Kawhi Leonard 2017,Tony Parker 2017,Jonathon Simmons 2017,54.04,15.6,9.0469,SAS
+519,519,519,530,LaMarcus Aldridge 2017,Kyle Anderson 2017,Pau Gasol 2017,Kawhi Leonard 2017,Patty Mills 2017,53.32,15.8,9.068241666666667,SAS
+520,520,520,531,LaMarcus Aldridge 2017,Danny Green 2017,David Lee 2017,Kawhi Leonard 2017,Patty Mills 2017,49.5,6.0,6.356250000000001,SAS
+521,521,521,532,Pau Gasol 2017,Manu Ginóbili 2017,David Lee 2017,Patty Mills 2017,Jonathon Simmons 2017,47.24,-3.2,4.098316666666667,SAS
+522,522,522,533,LaMarcus Aldridge 2017,Dewayne Dedmon 2017,Kawhi Leonard 2017,Tony Parker 2017,Jonathon Simmons 2017,47.08,9.0,7.097925000000001,SAS
+523,523,523,534,LaMarcus Aldridge 2017,Dewayne Dedmon 2017,Danny Green 2017,Kawhi Leonard 2017,Patty Mills 2017,46.36,19.1,9.527204166666667,SAS
+524,524,524,535,LaMarcus Aldridge 2017,Kyle Anderson 2017,Pau Gasol 2017,Kawhi Leonard 2017,Tony Parker 2017,46.15,-14.0,1.557333333333334,SAS
+525,525,525,536,LaMarcus Aldridge 2017,Manu Ginóbili 2017,David Lee 2017,Patty Mills 2017,Jonathon Simmons 2017,44.35,6.6,6.507718750000001,SAS
+526,526,526,537,LaMarcus Aldridge 2017,Davis Bertans 2017,Danny Green 2017,Kawhi Leonard 2017,Tony Parker 2017,42.26,1.6,5.405891666666667,SAS
+527,527,527,538,Pau Gasol 2017,Danny Green 2017,David Lee 2017,Kawhi Leonard 2017,Tony Parker 2017,41.06,21.3,9.64931875,SAS
+528,528,528,539,Kyle Anderson 2017,Pau Gasol 2017,Manu Ginóbili 2017,David Lee 2017,Patty Mills 2017,38.25,-15.2,2.160937500000001,SAS
+529,529,529,540,DeMarre Carroll 2017,DeMar DeRozan 2017,Kyle Lowry 2017,Pascal Siakam 2017,Jonas Valanciunas 2017,362.43,-10.5,-10.5,TOR
+530,530,530,541,DeMarre Carroll 2017,DeMar DeRozan 2017,Serge Ibaka 2017,Cory Joseph 2017,Jonas Valanciunas 2017,232.47,1.6,1.6,TOR
+531,531,531,542,Cory Joseph 2017,Kyle Lowry 2017,Lucas Nogueira 2017,Patrick Patterson 2017,Terrence Ross 2017,198.38,13.9,13.9,TOR
+532,532,532,543,DeMarre Carroll 2017,DeMar DeRozan 2017,Kyle Lowry 2017,Patrick Patterson 2017,Jonas Valanciunas 2017,146.54,29.8,23.0982015625,TOR
+533,533,533,544,DeMarre Carroll 2017,DeMar DeRozan 2017,Kyle Lowry 2017,Lucas Nogueira 2017,Jonas Valanciunas 2017,107.25,15.1,9.09466796875,TOR
+534,534,534,545,DeMar DeRozan 2017,Cory Joseph 2017,Lucas Nogueira 2017,Patrick Patterson 2017,Terrence Ross 2017,89.56,-1.0,0.3311864583333333,TOR
+535,535,535,546,DeMar DeRozan 2017,Serge Ibaka 2017,Cory Joseph 2017,P.J. Tucker 2017,Jonas Valanciunas 2017,87.0,3.7,2.4941406250000004,TOR
+536,536,536,547,DeMar DeRozan 2017,Kyle Lowry 2017,Norman Powell 2017,Pascal Siakam 2017,Jonas Valanciunas 2017,69.37,-4.9,-0.8155268229166667,TOR
+537,537,537,548,Patrick Patterson 2017,Jakob Poeltl 2017,Norman Powell 2017,P.J. Tucker 2017,Delon Wright 2017,67.29,-14.0,-3.93551328125,TOR
+538,538,538,549,DeMarre Carroll 2017,Kyle Lowry 2017,Patrick Patterson 2017,Norman Powell 2017,Jonas Valanciunas 2017,64.07,23.4,8.804652864583332,TOR
+539,539,539,550,DeMarre Carroll 2017,DeMar DeRozan 2017,Kyle Lowry 2017,Norman Powell 2017,Jonas Valanciunas 2017,61.42,-9.5,-2.0222546875,TOR
+540,540,540,551,DeMar DeRozan 2017,Kyle Lowry 2017,Patrick Patterson 2017,Terrence Ross 2017,Jonas Valanciunas 2017,51.4,19.0,6.181234375,TOR
+541,541,541,552,DeMar DeRozan 2017,Serge Ibaka 2017,Cory Joseph 2017,Norman Powell 2017,Jonas Valanciunas 2017,47.53,-6.1,-0.3851580729166664,TOR
+542,542,542,553,DeMar DeRozan 2017,Kyle Lowry 2017,Patrick Patterson 2017,Norman Powell 2017,Jonas Valanciunas 2017,47.01,17.0,5.29130234375,TOR
+543,543,543,554,DeMarre Carroll 2017,DeMar DeRozan 2017,Cory Joseph 2017,Pascal Siakam 2017,Jonas Valanciunas 2017,46.29,-9.3,-1.1076070312499997,TOR
+544,544,544,555,Cory Joseph 2017,Kyle Lowry 2017,Patrick Patterson 2017,Jakob Poeltl 2017,Terrence Ross 2017,42.34,-16.0,-2.363011979166667,TOR
+545,545,545,556,DeMarre Carroll 2017,DeMar DeRozan 2017,Serge Ibaka 2017,Kyle Lowry 2017,Jonas Valanciunas 2017,39.46,-22.0,-3.3337119791666665,TOR
+546,546,546,557,DeMarre Carroll 2017,DeMar DeRozan 2017,Kyle Lowry 2017,Terrence Ross 2017,Jonas Valanciunas 2017,38.28,-6.7,-0.13887812499999974,TOR
+547,547,547,558,Cory Joseph 2017,Kyle Lowry 2017,Lucas Nogueira 2017,Norman Powell 2017,Terrence Ross 2017,37.49,-11.1,-0.9643049479166668,TOR
+548,548,548,559,DeMar DeRozan 2017,Serge Ibaka 2017,Cory Joseph 2017,Norman Powell 2017,P.J. Tucker 2017,33.28,17.5,4.2692,TOR
+549,549,549,560,Derrick Favors 2017,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Rodney Hood 2017,152.12,-1.4,0.4226406249999993,UTA
+550,550,550,561,Derrick Favors 2017,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Joe Ingles 2017,148.28,23.0,19.442057291666668,UTA
+551,551,551,562,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Joe Ingles 2017,Joe Johnson 2017,141.0,4.0,4.896484375,UTA
+552,552,552,563,Boris Diaw 2017,Dante Exum 2017,Rudy Gobert 2017,Gordon Hayward 2017,Rodney Hood 2017,127.45,24.5,18.742610677083334,UTA
+553,553,553,564,Boris Diaw 2017,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Rodney Hood 2017,118.45,14.4,11.708912760416668,UTA
+554,554,554,565,Boris Diaw 2017,Dante Exum 2017,Rudy Gobert 2017,Gordon Hayward 2017,Joe Ingles 2017,90.18,-13.2,-2.288820312500001,UTA
+555,555,555,566,Rudy Gobert 2017,Gordon Hayward 2017,Joe Ingles 2017,Joe Johnson 2017,Shelvin Mack 2017,87.37,25.6,15.66832421875,UTA
+556,556,556,567,Boris Diaw 2017,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Joe Ingles 2017,87.02,3.9,5.800028645833334,UTA
+557,557,557,568,Derrick Favors 2017,Rudy Gobert 2017,Gordon Hayward 2017,Rodney Hood 2017,Shelvin Mack 2017,78.04,2.1,5.230932291666666,UTA
+558,558,558,569,Boris Diaw 2017,Rudy Gobert 2017,Gordon Hayward 2017,Joe Ingles 2017,Shelvin Mack 2017,73.11,5.7,6.73719140625,UTA
+559,559,559,570,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Rodney Hood 2017,Joe Johnson 2017,63.16,23.0,12.514973958333332,UTA
+560,560,560,571,Rudy Gobert 2017,Gordon Hayward 2017,Joe Ingles 2017,Trey Lyles 2017,Shelvin Mack 2017,55.44,-1.8,4.72571875,UTA
+561,561,561,572,Boris Diaw 2017,Rudy Gobert 2017,Gordon Hayward 2017,Rodney Hood 2017,Shelvin Mack 2017,52.16,25.1,12.190291666666667,UTA
+562,562,562,573,Boris Diaw 2017,Rudy Gobert 2017,George Hill 2017,Rodney Hood 2017,Joe Johnson 2017,50.12,8.6,7.6947760416666675,UTA
+563,563,563,574,Dante Exum 2017,Rudy Gobert 2017,Gordon Hayward 2017,Joe Ingles 2017,Joe Johnson 2017,44.33,27.1,11.92921484375,UTA
+564,564,564,575,Dante Exum 2017,Rudy Gobert 2017,Gordon Hayward 2017,Rodney Hood 2017,Joe Johnson 2017,41.33,-7.2,4.237579427083333,UTA
+565,565,565,576,Dante Exum 2017,Rudy Gobert 2017,Gordon Hayward 2017,Rodney Hood 2017,Trey Lyles 2017,41.3,-7.8,4.110794270833334,UTA
+566,566,566,577,Rudy Gobert 2017,George Hill 2017,Rodney Hood 2017,Joe Johnson 2017,Trey Lyles 2017,40.03,4.1,6.692196614583334,UTA
+567,567,567,578,Rudy Gobert 2017,Gordon Hayward 2017,Rodney Hood 2017,Joe Johnson 2017,Shelvin Mack 2017,39.23,-35.0,-1.2831835937500005,UTA
+568,568,568,579,Rudy Gobert 2017,Gordon Hayward 2017,George Hill 2017,Rodney Hood 2017,Trey Lyles 2017,35.23,22.8,10.205326822916668,UTA
+569,569,569,580,Bradley Beal 2017,Marcin Gortat 2017,Markieff Morris 2017,Otto Porter 2017,John Wall 2017,1345.09,7.9,7.9,WAS
+570,570,570,581,Bradley Beal 2017,Marcin Gortat 2017,Kelly Oubre Jr. 2017,Otto Porter 2017,John Wall 2017,198.08,17.9,17.9,WAS
+571,571,571,582,Bradley Beal 2017,Marcin Gortat 2017,Otto Porter 2017,Jason Smith 2017,John Wall 2017,135.09,-12.4,-7.728637500000001,WAS
+572,572,572,583,Bradley Beal 2017,Marcin Gortat 2017,Markieff Morris 2017,Kelly Oubre Jr. 2017,John Wall 2017,102.09,1.7,2.4773468750000003,WAS
+573,573,573,584,Bojan Bogdanovi? 2017,Brandon Jennings 2017,Ian Mahinmi 2017,Kelly Oubre Jr. 2017,Jason Smith 2017,85.39,24.6,12.80626875,WAS
+574,574,574,585,Trey Burke 2017,Markieff Morris 2017,Kelly Oubre Jr. 2017,Tomás Satoranský 2017,Jason Smith 2017,76.52,13.1,7.241795833333333,WAS
+575,575,575,586,Marcin Gortat 2017,Markieff Morris 2017,Otto Porter 2017,Marcus Thornton 2017,John Wall 2017,61.07,-9.3,-0.6668031249999999,WAS
+576,576,576,587,Bradley Beal 2017,Markieff Morris 2017,Kelly Oubre Jr. 2017,Otto Porter 2017,John Wall 2017,51.53,16.3,6.832907291666667,WAS
+577,577,577,588,Trey Burke 2017,Markieff Morris 2017,Kelly Oubre Jr. 2017,Jason Smith 2017,Marcus Thornton 2017,45.09,-4.8,1.4436750000000005,WAS
+578,578,578,589,Bradley Beal 2017,Bojan Bogdanovi? 2017,Markieff Morris 2017,Otto Porter 2017,John Wall 2017,41.06,-4.6,1.6577208333333338,WAS
+579,579,579,590,Bradley Beal 2017,Trey Burke 2017,Markieff Morris 2017,Kelly Oubre Jr. 2017,Jason Smith 2017,37.44,1.4,2.9778000000000007,WAS
+580,580,580,591,Bradley Beal 2017,Markieff Morris 2017,Otto Porter 2017,Jason Smith 2017,John Wall 2017,32.29,-31.9,-2.5699239583333333,WAS
+581,581,581,592,Bradley Beal 2017,Bojan Bogdanovi? 2017,Marcin Gortat 2017,Otto Porter 2017,John Wall 2017,31.3,-5.0,1.9971458333333332,WAS
+582,582,582,593,Bradley Beal 2017,Ian Mahinmi 2017,Markieff Morris 2017,Otto Porter 2017,John Wall 2017,30.52,18.1,5.703045833333333,WAS
+583,583,583,594,Bradley Beal 2017,Bojan Bogdanovi? 2017,Brandon Jennings 2017,Ian Mahinmi 2017,Kelly Oubre Jr. 2017,27.0,26.2,6.571875,WAS
+584,584,584,595,Trey Burke 2017,Sheldon Mac 2017,Markieff Morris 2017,Kelly Oubre Jr. 2017,Jason Smith 2017,26.59,-13.2,1.0666125000000004,WAS
+585,585,585,596,Marcin Gortat 2017,Sheldon Mac 2017,Markieff Morris 2017,Otto Porter 2017,John Wall 2017,26.24,8.8,4.103466666666667,WAS
+586,586,586,597,Bradley Beal 2017,Kelly Oubre Jr. 2017,Otto Porter 2017,Jason Smith 2017,John Wall 2017,25.58,24.2,6.136495833333332,WAS
+587,587,587,598,Marcin Gortat 2017,Kelly Oubre Jr. 2017,Otto Porter 2017,Marcus Thornton 2017,John Wall 2017,25.52,-40.0,-2.4032666666666658,WAS
+588,588,588,599,Marcin Gortat 2017,Sheldon Mac 2017,Markieff Morris 2017,Otto Porter 2017,Tomás Satoranský 2017,25.18,28.2,6.6176625,WAS
