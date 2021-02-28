@@ -11,6 +11,10 @@ Due to the bad performance of K - MEANS, it was necessary to try a probabilistic
 For the implementation of GMM there are multiple parameters to take into account: the initialization parameters for each gaussian distribution and the amount of clusters,for example. So to evaluate multiple options I decided to make initializations on my own; varying the weights and the means with different number of clusters. I choose values evenly, or randomly. For choosing the correct amount of clusters the metric used was <a href="https://medium.com/@analyttica/what-is-bayesian-information-criterion-bic-b3396a894be6">BIC</a>, and not the "score" sklearn suggests; that is the average log-likelihood. After evaluating the multiple options, I chose the amount of clusters and parameters that had the lowest BIC (8 clusters) and train a model to obtained the probability of each player being in each of the 8 clusters. 
 
 # Third
+Based on the characteristics that highlight each cluster, I named them. This table shows how I named them and based on what.
+
+
+# Fourth
 For making the regression models it was necessary to get the <a href="www.basketball-reference.com">lineups data</a>. These had to be modified by adding the first name of each player, and then adding the team name like in the Data_2009_2019 csv for then related them. In the Data folder are all the csv's for the lineups from 2008-2009 to 2018-2019 seasons. Also it was important to adjust the net rating of each lineup due to the huge range between the best and the worst, so to avoid outliers and to have a better performance with the regression models it was necessary to apply an empirical bayes formula to adjust this. 
-Finally, it's necessary to add the probability of the players to the lineup tables and get, at the end, a sum of probabilities that will be the columns, or the X values, to train the regression model. The final table or DataFrame it's called 
+Finally, it's necessary to add the probability of the players to the lineup tables and get, at the end, a sum of probabilities that will be the columns, or the X values, to train the regression model. The final table or DataFrame it's called Lineups and Clusters in the regression model folder. 
 
