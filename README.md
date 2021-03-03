@@ -3,7 +3,9 @@ This project is based on the article published in the MIT SLOAN Sports Conferenc
 The approach is making a prediction of the best possible combinations for a NBA 5-man lineup based on a previous probabilistic clustering using Gaussian Mixture Models.
 
 # First Step
-The first step is choosing the data to work with. I choose to use data of all NBA players from seasons 2008-2009 to 2018-2019, selecting 23 characteristics that shows the impact of a player during a match. These have to be in percentage or per 100 posessions to avoid great numbers from players that play too much minutes in comparison to the ones that not. The data was obtained scraping <a href="www.basketball-reference.com">Basketball reference web page</a> and the code is in SCRAP_DATA.ipynb. The final csv is called Data_2009_2019 in the Data folder. 
+The first step is choosing the data to work with. I choose to use data of all NBA players from seasons 2008-2009 to 2018-2019, selecting 23 characteristics that shows the impact of a player during a match. These have to be in percentage or per 100 posessions to avoid great numbers from players that play too much minutes in comparison to the ones that not. The data was obtained scraping <a href="www.basketball-reference.com">Basketball reference web page</a> and the code is in 
+[SCRAP_DATA.ipynb] (https://github.com/piperojas0618/NBApredict/blob/master/SCRAP_DATA.ipynb). 
+The final csv is called Data_2009_2019 in the Data folder. 
 
 # Second
 The data obtained is to perform the clustering. First I tried K - MEANS, evaluating the performance of it with the <a href="https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py"> silhouette score </a>. This metric helps to select the correct amount of clusters based on how well each sample is assigned to one of them. 
