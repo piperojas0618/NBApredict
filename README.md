@@ -23,4 +23,4 @@ Finally, it's necessary to add the probability of the players to the lineup tabl
 
 # Fifth (Regression Models)
 
-# Sixth (Results(
+# Sixth (Results)
