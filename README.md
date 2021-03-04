@@ -5,7 +5,7 @@ The approach is making a prediction of the best possible combinations for a NBA 
 # First Step
 The first step is choosing the data to work with. I choose to use data of all NBA players from seasons 2008-2009 to 2018-2019, selecting 23 characteristics that shows the impact of a player during a match. These have to be in percentage or per 100 posessions to avoid great numbers from players that play too much minutes in comparison to the ones that not. The data was obtained scraping <a href="www.basketball-reference.com">Basketball reference web page</a> and the code is in 
 <a href="https://github.com/piperojas0618/NBApredict/blob/master/SCRAP_DATA.ipynb"> SCRAP_DATA.ipynb</a>. 
-The final csv is called <a href = "https://github.com/piperojas0618/NBApredict/blob/master/SCRAP_DATA.ipynb"> Data_2009_2019 </a> in the Data folder. 
+The final csv is called <a href = "https://github.com/piperojas0618/NBApredict/blob/master/Data/Data_2009_2019.csv"> Data_2009_2019 </a> in the Data folder. 
 
 # Second
 The data obtained is to perform the clustering. First I tried K - MEANS, evaluating the performance of it with the <a href="https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py"> silhouette score </a>. This metric helps to select the correct amount of clusters based on how well each sample is assigned to one of them. 
@@ -14,9 +14,11 @@ For the implementation of GMM there are multiple parameters to take into account
 
 # Third
 Based on the characteristics that highlight each cluster, I named them. This table shows how I named them and based on what.
+![image](https://user-images.githubusercontent.com/54789284/109889222-f258cb00-7c52-11eb-8775-be08a0f3221d.png)
+The boxplots created showing the highlighted characteristics are <a href="https://github.com/piperojas0618/NBApredict/blob/master/Cluster Models/.csv"> here </a>
 
 
 # Fourth
-For making the regression models it was necessary to get the <a href="www.basketball-reference.com">lineups data</a>. These had to be modified by adding the first name of each player, and then adding the team name like in the Data_2009_2019 csv for then related them. In the Data folder are all the csv's for the lineups from 2008-2009 to 2018-2019 seasons. Also it was important to adjust the net rating of each lineup due to the huge range between the best and the worst, so to avoid outliers and to have a better performance with the regression models it was necessary to apply an empirical bayes formula to adjust this. 
+For making the regression models it was necessary to get the <a href="https://www.basketball-reference.com/teams/DAL/2011/lineups/">lineups data</a>. These had to be modified by adding the first name of each player, and then adding the team name like in the Data_2009_2019 csv for then related them. In the Data folder are all the csv's for the lineups from 2008-2009 to 2018-2019 seasons. Also it was important to adjust the net rating of each lineup due to the huge range between the best and the worst, so to avoid outliers and to have a better performance with the regression models it was necessary to apply an empirical bayes formula to adjust this. 
 Finally, it's necessary to add the probability of the players to the lineup tables and get, at the end, a sum of probabilities that will be the columns, or the X values, to train the regression model. The final table or DataFrame it's called Lineups and Clusters in the regression model folder. 
 
