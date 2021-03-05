@@ -14,7 +14,9 @@ For the implementation of GMM there are multiple parameters to take into account
 
 # Third  (Cluster Models Results)
 Based on the characteristics that highlight each cluster, I named them. This table shows how I named them and based on what.
+
 ![image](https://user-images.githubusercontent.com/54789284/109889222-f258cb00-7c52-11eb-8775-be08a0f3221d.png)
+
 The boxplots created showing the highlighted characteristics are <a href="https://github.com/piperojas0618/NBApredict/blob/master/Cluster%20Models/Box%20Plot%20results.ipynb"> here. </a>
 
 # Fourth (Data Management)
