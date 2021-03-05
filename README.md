@@ -23,6 +23,9 @@ Finally, it's necessary to add the probability of the players to the lineup tabl
 
 # Fifth (Regression Models)
 I tried 3 different algorithms; Random Forest Regressor, SVR, AdaBoost Regressor.
-To find the best parameters for each algorithm I made "for" loops, then save all the data in a dataframe, then sort it based on the MSE between the train data and its prediction. Finally train the best model for each algorithm, plot the predicted data vs the real data and get the Mean Squared Error of each to use that model to get the final results. 
+To find the best parameters for each algorithm I made "for" loops, then save all the data in a dataframe, then sort it based on the MSE between the train data and its prediction. Finally train the best model for each algorithm, plot the predicted data vs the real data and get the Mean Squared Error of each to use the best model to get the final results. Take into account that the final prediction is a Net Rating for each lineup.
 
 # Sixth (Results)
+To check the model in a completely new dataset, I create a permutation matrix in which it's included all possible permutations when the sum of probabilities, in the 8 columns that identify each cluster, it's equal to 5 with intervals of 0.25. 
+![image](https://user-images.githubusercontent.com/54789284/110065300-d893b280-7d3c-11eb-8bc8-339131244215.png)
+The best Net Rating obtained was +16.7 with this type of players: 2 Dominant Scorers, 1.75 General Player, 0.25 of a 3-PT shooter and 1 Center. 
