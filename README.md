@@ -13,7 +13,7 @@ Due to the bad performance of K - MEANS, it was necessary to try a probabilistic
 For the implementation of GMM there are multiple parameters to take into account: the initialization parameters for each gaussian distribution and the amount of clusters,for example. So to evaluate multiple options I decided to make initializations on my own; varying the weights and the means with different number of clusters. I choose values evenly, or randomly. For choosing the correct amount of clusters the metric used was <a href="https://medium.com/@analyttica/what-is-bayesian-information-criterion-bic-b3396a894be6">BIC</a>, and not the "score" sklearn suggests; that is the average log-likelihood. After evaluating the multiple options, I chose the amount of clusters and parameters that had the lowest BIC (8 clusters) and train a model to obtained the probability of each player being in each of the 8 clusters. 
 
 # Third  (Cluster Models Results)
-Based on the characteristics that highlight each cluster, I named them. This table shows how I named them and based on what.
+Based on the characteristics that highlight each cluster, I named them. This table shows how I named them and based on what. 
 
 ![image](https://user-images.githubusercontent.com/54789284/109889222-f258cb00-7c52-11eb-8775-be08a0f3221d.png)
 
@@ -29,5 +29,7 @@ To find the best parameters for each algorithm I made "for" loops, then save all
 
 # Sixth (Results)
 To check the model in a completely new dataset, I create a permutation matrix in which it's included all possible permutations when the sum of probabilities, in the 8 columns that identify each cluster, it's equal to 5 with intervals of 0.25. 
+'\n'
 ![image](https://user-images.githubusercontent.com/54789284/110065300-d893b280-7d3c-11eb-8bc8-339131244215.png)
+
 The best Net Rating obtained was +16.7 with this type of players: 2 Dominant Scorers, 1.75 General Player, 0.25 of a 3-PT shooter and 1 Center. 
