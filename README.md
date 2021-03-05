@@ -22,5 +22,7 @@ For making the regression models it was necessary to get the <a href="https://ww
 Finally, it's necessary to add the probability of the players to the lineup tables and get, at the end, a sum of probabilities that will be the columns, or the X values, to train the regression model. The final table or DataFrame it's called Lineups and Clusters in the regression model folder. 
 
 # Fifth (Regression Models)
+I tried 3 different algorithms; Random Forest Regressor, SVR, AdaBoost Regressor.
+To find the best parameters for each algorithm I made "for" loops, then save all the data in a dataframe, then sort it based on the MSE between the train data and its prediction. Finally train the best model for each algorithm, plot the predicted data vs the real data and get the Mean Squared Error of each to use that model to get the final results. 
 
 # Sixth (Results)
